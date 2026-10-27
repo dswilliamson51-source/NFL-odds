@@ -1,0 +1,61 @@
+name: Pull FanDuel NFL props
+
+on:
+  schedule:
+    - cron: "0 21 * * 5"   # Fridays 21:00 UTC = 5 PM ET (after injury reports)
+  workflow_dispatch:        # "Run workflow" button for a manual pull
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull game lines and player props from The Odds API
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: |
+          python3 - <<'EOF'
+          import json, os, urllib.request, datetime as dt
+          KEY = os.environ["ODDS_API_KEY"]
+          BASE = "https://api.the-odds-api.com/v4/sports/americanfootball_nfl"
+          # 6 prop markets x ~14 games is about 85 credits per pull (free plan: 500/month)
+          MARKETS = ",".join([
+              "player_pass_yds", "player_pass_attempts", "player_pass_completions",
+              "player_rush_yds", "player_rush_attempts", "player_reception_yds",
+          ])
+          def get(url):
+              with urllib.request.urlopen(url, timeout=60) as r:
+                  print("credits left:", r.headers.get("x-requests-remaining"))
+                  return json.load(r)
+          now = dt.datetime.now(dt.timezone.utc)
+          out = {"pulled_at": now.isoformat(), "games": get(
+              f"{BASE}/odds?apiKey={KEY}&regions=us&bookmakers=fanduel&markets=h2h,spreads,totals&oddsFormat=american"),
+              "props": []}
+          events = get(f"{BASE}/events?apiKey={KEY}")
+          for e in events:
+              start = dt.datetime.fromisoformat(e["commence_time"].replace("Z", "+00:00"))
+              if not (now <= start <= now + dt.timedelta(days=5)):
+                  continue
+              try:
+                  out["props"].append(get(
+                      f"{BASE}/events/{e['id']}/odds?apiKey={KEY}&regions=us&bookmakers=fanduel&markets={MARKETS}&oddsFormat=american"))
+              except Exception as ex:
+                  print("skip", e.get("home_team"), ex)
+          os.makedirs("data", exist_ok=True)
+          name = f"data/fanduel_{now:%Y-%m-%d}.json"
+          json.dump(out, open(name, "w"), indent=1)
+          json.dump(out, open("data/latest.json", "w"), indent=1)
+          print("saved", name, "games with props:", len(out["props"]))
+          EOF
+
+      - name: Save to the repository
+        run: |
+          git config user.name "odds-bot"
+          git config user.email "odds-bot@users.noreply.github.com"
+          git add data
+          git commit -m "FanDuel props $(date -u +%F)" || echo "nothing new"
+          git push
