@@ -1,0 +1,44 @@
+name: Pull one college game's FanDuel props
+
+on:
+  workflow_dispatch:
+    inputs:
+      team:
+        description: "Team name to match (e.g. Georgia)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull props for one game
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          TEAM: ${{ github.event.inputs.team }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request, datetime as dt
+          KEY=os.environ["ODDS_API_KEY"]; TEAM=os.environ["TEAM"].lower()
+          BASE="https://api.the-odds-api.com/v4/sports/americanfootball_ncaaf"
+          MARKETS="player_pass_yds,player_rush_yds,player_reception_yds,player_pass_tds,player_rush_attempts,player_receptions"
+          def get(u):
+              with urllib.request.urlopen(u, timeout=60) as r:
+                  print("credits left:", r.headers.get("x-requests-remaining")); return json.load(r)
+          ev=[e for e in get(f"{BASE}/events?apiKey={KEY}") if TEAM in (e["home_team"]+" "+e["away_team"]).lower()]
+          now=dt.datetime.now(dt.timezone.utc); ev=[e for e in ev if dt.datetime.fromisoformat(e["commence_time"].replace("Z","+00:00"))<=now+dt.timedelta(days=3)]
+          out={"pulled_at":now.isoformat(),"events":[]}
+          for e in ev:
+              out["events"].append(get(f"{BASE}/events/{e['id']}/odds?apiKey={KEY}&regions=us&bookmakers=fanduel&markets={MARKETS}&oddsFormat=american"))
+          os.makedirs("data",exist_ok=True)
+          name=f"data/cfb_{TEAM.replace(' ','_')}_{now:%Y-%m-%d}.json"
+          json.dump(out,open(name,"w"),indent=1); print("saved",name,len(out["events"]))
+          PY
+      - name: Save
+        run: |
+          git config user.name "odds-bot"; git config user.email "odds-bot@users.noreply.github.com"
+          git add data; git commit -m "CFB props $TEAM" || true
+          git pull --rebase origin main || true; git push
