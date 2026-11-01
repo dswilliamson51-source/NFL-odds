@@ -1,5 +1,5 @@
 {
- "pulled_at": "2026-10-31T00:15:43.238869+00:00",
+ "pulled_at": "2026-11-01T12:13:42.004137+00:00",
  "games": [
   {
    "id": "9255ca8f32aea590d00aa57de79f6bb6",
@@ -12,41 +12,41 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Arizona Cardinals",
-         "price": 290
+         "price": 270
         },
         {
          "name": "Dallas Cowboys",
-         "price": -360
+         "price": -335
         }
        ]
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Arizona Cardinals",
-         "price": -110,
+         "price": -112,
          "point": 7.0
         },
         {
          "name": "Dallas Cowboys",
-         "price": -110,
+         "price": -108,
          "point": -7.0
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -75,11 +75,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Atlanta Falcons",
@@ -93,32 +93,32 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Atlanta Falcons",
-         "price": -115,
+         "price": -118,
          "point": 2.5
         },
         {
          "name": "Tampa Bay Buccaneers",
-         "price": -105,
+         "price": -104,
          "point": -2.5
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
-         "price": -115,
+         "price": -110,
          "point": 43.5
         },
         {
          "name": "Under",
-         "price": -105,
+         "price": -110,
          "point": 43.5
         }
        ]
@@ -138,25 +138,25 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Baltimore Ravens",
-         "price": 148
+         "price": 146
         },
         {
          "name": "Buffalo Bills",
-         "price": -176
+         "price": -174
         }
        ]
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Baltimore Ravens",
@@ -172,16 +172,16 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
-         "price": -105,
+         "price": -108,
          "point": 54.5
         },
         {
          "name": "Under",
-         "price": -115,
+         "price": -112,
          "point": 54.5
         }
        ]
@@ -201,11 +201,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Cincinnati Bengals",
@@ -219,7 +219,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Cincinnati Bengals",
@@ -235,16 +235,16 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
-         "price": -115,
+         "price": -110,
          "point": 46.5
         },
         {
          "name": "Under",
-         "price": -105,
+         "price": -110,
          "point": 46.5
         }
        ]
@@ -264,51 +264,51 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Cleveland Browns",
-         "price": 164
+         "price": 166
         },
         {
          "name": "Pittsburgh Steelers",
-         "price": -196
+         "price": -198
         }
        ]
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Cleveland Browns",
-         "price": -105,
+         "price": -115,
          "point": 3.5
         },
         {
          "name": "Pittsburgh Steelers",
-         "price": -115,
+         "price": -105,
          "point": -3.5
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
-         "price": -105,
-         "point": 39.5
+         "price": -115,
+         "point": 38.5
         },
         {
          "name": "Under",
-         "price": -115,
-         "point": 39.5
+         "price": -105,
+         "point": 38.5
         }
        ]
       }
@@ -327,11 +327,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Detroit Lions",
@@ -345,7 +345,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Detroit Lions",
@@ -361,7 +361,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -390,11 +390,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Indianapolis Colts",
@@ -408,23 +408,23 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Indianapolis Colts",
-         "price": -122,
+         "price": -118,
          "point": 10.5
         },
         {
          "name": "Jacksonville Jaguars",
-         "price": 100,
+         "price": -104,
          "point": -10.5
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -453,11 +453,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Las Vegas Raiders",
@@ -471,7 +471,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Las Vegas Raiders",
@@ -487,7 +487,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -516,50 +516,50 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Los Angeles Chargers",
-         "price": 240
+         "price": 225
         },
         {
          "name": "Los Angeles Rams",
-         "price": -295
+         "price": -275
         }
        ]
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Los Angeles Chargers",
-         "price": -106,
+         "price": -112,
          "point": 6.5
         },
         {
          "name": "Los Angeles Rams",
-         "price": -114,
+         "price": -108,
          "point": -6.5
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
-         "price": -105,
+         "price": -110,
          "point": 45.5
         },
         {
          "name": "Under",
-         "price": -115,
+         "price": -110,
          "point": 45.5
         }
        ]
@@ -579,11 +579,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Denver Broncos",
@@ -597,7 +597,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Denver Broncos",
@@ -613,16 +613,16 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
-         "price": -115,
+         "price": -110,
          "point": 40.5
         },
         {
          "name": "Under",
-         "price": -105,
+         "price": -110,
          "point": 40.5
         }
        ]
@@ -642,11 +642,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Miami Dolphins",
@@ -660,7 +660,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Miami Dolphins",
@@ -676,16 +676,16 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
-         "price": -105,
+         "price": -104,
          "point": 43.5
         },
         {
          "name": "Under",
-         "price": -115,
+         "price": -118,
          "point": 43.5
         }
        ]
@@ -705,11 +705,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Philadelphia Eagles",
@@ -723,7 +723,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Philadelphia Eagles",
@@ -739,7 +739,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -768,41 +768,41 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Chicago Bears",
-         "price": 142
+         "price": 146
         },
         {
          "name": "Seattle Seahawks",
-         "price": -168
+         "price": -174
         }
        ]
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Chicago Bears",
-         "price": -105,
+         "price": -102,
          "point": 3.0
         },
         {
          "name": "Seattle Seahawks",
-         "price": -115,
+         "price": -120,
          "point": -3.0
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -831,41 +831,41 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Baltimore Ravens",
-         "price": -154
+         "price": -148
         },
         {
          "name": "Jacksonville Jaguars",
-         "price": 130
+         "price": 126
         }
        ]
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Baltimore Ravens",
-         "price": -105,
-         "point": -3.0
+         "price": -118,
+         "point": -2.5
         },
         {
          "name": "Jacksonville Jaguars",
-         "price": -115,
-         "point": 3.0
+         "price": -104,
+         "point": 2.5
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -894,11 +894,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Atlanta Falcons",
@@ -912,7 +912,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Atlanta Falcons",
@@ -928,7 +928,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -957,11 +957,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Carolina Panthers",
@@ -975,7 +975,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Carolina Panthers",
@@ -991,7 +991,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -1020,11 +1020,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Cleveland Browns",
@@ -1038,7 +1038,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Cleveland Browns",
@@ -1054,7 +1054,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -1083,11 +1083,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Dallas Cowboys",
@@ -1101,32 +1101,32 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Dallas Cowboys",
-         "price": -110,
+         "price": -112,
          "point": -4.5
         },
         {
          "name": "Indianapolis Colts",
-         "price": -110,
+         "price": -108,
          "point": 4.5
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
-         "price": -110,
+         "price": -105,
          "point": 52.5
         },
         {
          "name": "Under",
-         "price": -110,
+         "price": -115,
          "point": 52.5
         }
        ]
@@ -1146,11 +1146,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Detroit Lions",
@@ -1164,7 +1164,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Detroit Lions",
@@ -1180,7 +1180,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -1209,11 +1209,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Kansas City Chiefs",
@@ -1227,7 +1227,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Kansas City Chiefs",
@@ -1243,7 +1243,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -1272,11 +1272,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Los Angeles Rams",
@@ -1290,7 +1290,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Los Angeles Rams",
@@ -1306,7 +1306,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -1335,41 +1335,41 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "New York Giants",
-         "price": -116
+         "price": -118
         },
         {
          "name": "Philadelphia Eagles",
-         "price": -102
+         "price": 100
         }
        ]
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "New York Giants",
-         "price": -102,
+         "price": -106,
          "point": -1.5
         },
         {
          "name": "Philadelphia Eagles",
-         "price": -120,
+         "price": -114,
          "point": 1.5
         }
        ]
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -1398,11 +1398,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Houston Texans",
@@ -1416,7 +1416,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Houston Texans",
@@ -1432,7 +1432,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -1461,11 +1461,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Las Vegas Raiders",
@@ -1479,7 +1479,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Las Vegas Raiders",
@@ -1495,7 +1495,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -1524,11 +1524,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Arizona Cardinals",
@@ -1542,7 +1542,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Arizona Cardinals",
@@ -1558,7 +1558,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -1587,11 +1587,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Green Bay Packers",
@@ -1605,7 +1605,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Green Bay Packers",
@@ -1621,7 +1621,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -1650,11 +1650,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Chicago Bears",
@@ -1668,7 +1668,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Chicago Bears",
@@ -1684,7 +1684,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -1713,11 +1713,11 @@
     {
      "key": "fanduel",
      "title": "FanDuel",
-     "last_update": "2026-10-31T00:15:32Z",
+     "last_update": "2026-11-01T12:13:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Buffalo Bills",
@@ -1731,7 +1731,7 @@
       },
       {
        "key": "spreads",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Buffalo Bills",
@@ -1747,7 +1747,7 @@
       },
       {
        "key": "totals",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:37Z",
        "outcomes": [
         {
          "name": "Over",
@@ -1781,259 +1781,271 @@
      "markets": [
       {
        "key": "player_pass_yds",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:19Z",
        "outcomes": [
         {
          "name": "Over",
-         "description": "Jacoby Brissett",
-         "price": -114,
-         "point": 258.5
+         "description": "Dak Prescott",
+         "price": -113,
+         "point": 271.5
         },
         {
          "name": "Under",
-         "description": "Jacoby Brissett",
-         "price": -114,
-         "point": 258.5
+         "description": "Dak Prescott",
+         "price": -113,
+         "point": 271.5
         },
         {
          "name": "Over",
-         "description": "Dak Prescott",
-         "price": -114,
-         "point": 271.5
+         "description": "Jacoby Brissett",
+         "price": -113,
+         "point": 258.5
         },
         {
          "name": "Under",
-         "description": "Dak Prescott",
-         "price": -114,
-         "point": 271.5
+         "description": "Jacoby Brissett",
+         "price": -113,
+         "point": 258.5
         }
        ]
       },
       {
        "key": "player_reception_yds",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:19Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Javonte Williams",
-         "price": -114,
+         "price": -113,
          "point": 11.5
         },
         {
          "name": "Under",
          "description": "Javonte Williams",
-         "price": -114,
+         "price": -113,
          "point": 11.5
         },
         {
          "name": "Over",
          "description": "Kendrick Bourne",
-         "price": -114,
-         "point": 36.5
+         "price": -113,
+         "point": 38.5
         },
         {
          "name": "Under",
          "description": "Kendrick Bourne",
-         "price": -114,
-         "point": 36.5
+         "price": -113,
+         "point": 38.5
         },
         {
          "name": "Over",
          "description": "Michael Wilson",
-         "price": -114,
+         "price": -113,
          "point": 56.5
         },
         {
          "name": "Under",
          "description": "Michael Wilson",
-         "price": -114,
+         "price": -113,
          "point": 56.5
         },
         {
          "name": "Over",
          "description": "Jake Ferguson",
-         "price": -114,
+         "price": -113,
          "point": 14.5
         },
         {
          "name": "Under",
          "description": "Jake Ferguson",
-         "price": -114,
+         "price": -113,
          "point": 14.5
         },
         {
          "name": "Over",
          "description": "George Pickens",
-         "price": -114,
+         "price": -113,
          "point": 65.5
         },
         {
          "name": "Under",
          "description": "George Pickens",
-         "price": -114,
+         "price": -113,
          "point": 65.5
         },
         {
          "name": "Over",
+         "description": "Reggie Virgil",
+         "price": -113,
+         "point": 11.5
+        },
+        {
+         "name": "Under",
+         "description": "Reggie Virgil",
+         "price": -113,
+         "point": 11.5
+        },
+        {
+         "name": "Over",
          "description": "CeeDee Lamb",
-         "price": -114,
+         "price": -113,
          "point": 80.5
         },
         {
          "name": "Under",
          "description": "CeeDee Lamb",
-         "price": -114,
+         "price": -113,
          "point": 80.5
         },
         {
          "name": "Over",
          "description": "Trey McBride",
-         "price": -114,
+         "price": -113,
          "point": 71.5
         },
         {
          "name": "Under",
          "description": "Trey McBride",
-         "price": -114,
+         "price": -113,
          "point": 71.5
         },
         {
          "name": "Over",
          "description": "Elijah Higgins",
-         "price": -114,
+         "price": -113,
          "point": 17.5
         },
         {
          "name": "Under",
          "description": "Elijah Higgins",
-         "price": -114,
+         "price": -113,
          "point": 17.5
         },
         {
          "name": "Over",
          "description": "Ryan Flournoy",
-         "price": -114,
+         "price": -113,
          "point": 36.5
         },
         {
          "name": "Under",
          "description": "Ryan Flournoy",
-         "price": -114,
+         "price": -113,
          "point": 36.5
         },
         {
          "name": "Over",
          "description": "Jeremiyah Love",
-         "price": -114,
+         "price": -113,
          "point": 10.5
         },
         {
          "name": "Under",
          "description": "Jeremiyah Love",
-         "price": -114,
+         "price": -113,
          "point": 10.5
         },
         {
          "name": "Over",
          "description": "Brevyn Spann-Ford",
-         "price": -114,
-         "point": 15.5
+         "price": -113,
+         "point": 14.5
         },
         {
          "name": "Under",
          "description": "Brevyn Spann-Ford",
-         "price": -114,
-         "point": 15.5
+         "price": -113,
+         "point": 14.5
         }
        ]
       },
       {
        "key": "player_rush_yds",
-       "last_update": "2026-10-31T00:15:32Z",
+       "last_update": "2026-11-01T12:13:19Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Jacoby Brissett",
-         "price": -114,
+         "price": -113,
          "point": 10.5
         },
         {
          "name": "Under",
          "description": "Jacoby Brissett",
-         "price": -114,
+         "price": -113,
          "point": 10.5
         },
         {
          "name": "Over",
          "description": "Tyler Goodson",
-         "price": -114,
+         "price": -113,
          "point": 19.5
         },
         {
          "name": "Under",
          "description": "Tyler Goodson",
-         "price": -114,
+         "price": -113,
          "point": 19.5
         },
         {
          "name": "Over",
          "description": "Dak Prescott",
-         "price": -114,
+         "price": -113,
          "point": 8.5
         },
         {
          "name": "Under",
          "description": "Dak Prescott",
-         "price": -114,
+         "price": -113,
          "point": 8.5
         },
         {
          "name": "Over",
          "description": "Jeremiyah Love",
-         "price": -114,
-         "point": 40.5
+         "price": -113,
+         "point": 41.5
         },
         {
          "name": "Under",
          "description": "Jeremiyah Love",
-         "price": -114,
-         "point": 40.5
+         "price": -113,
+         "point": 41.5
         },
         {
          "name": "Over",
          "description": "Bam Knight",
-         "price": -114,
-         "point": 23.5
+         "price": -113,
+         "point": 19.5
         },
         {
          "name": "Under",
          "description": "Bam Knight",
-         "price": -114,
-         "point": 23.5
+         "price": -113,
+         "point": 19.5
         },
         {
          "name": "Over",
          "description": "Javonte Williams",
-         "price": -114,
+         "price": -113,
          "point": 76.5
         },
         {
          "name": "Under",
          "description": "Javonte Williams",
-         "price": -114,
+         "price": -113,
          "point": 76.5
         },
         {
          "name": "Over",
          "description": "Tyler Allgeier",
-         "price": -114,
-         "point": 16.5
+         "price": -113,
+         "point": 13.5
         },
         {
          "name": "Under",
          "description": "Tyler Allgeier",
-         "price": -114,
-         "point": 16.5
+         "price": -113,
+         "point": 13.5
         }
        ]
       }
@@ -2055,223 +2067,271 @@
      "markets": [
       {
        "key": "player_pass_yds",
-       "last_update": "2026-10-31T00:15:34Z",
+       "last_update": "2026-11-01T12:13:15Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Michael Penix Jr.",
-         "price": -114,
+         "price": -113,
          "point": 229.5
         },
         {
          "name": "Under",
          "description": "Michael Penix Jr.",
-         "price": -114,
+         "price": -113,
          "point": 229.5
         },
         {
          "name": "Over",
          "description": "Baker Mayfield",
-         "price": -114,
+         "price": -113,
          "point": 215.5
         },
         {
          "name": "Under",
          "description": "Baker Mayfield",
-         "price": -114,
+         "price": -113,
          "point": 215.5
         }
        ]
       },
       {
        "key": "player_reception_yds",
-       "last_update": "2026-10-31T00:15:34Z",
+       "last_update": "2026-11-01T12:13:15Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Cade Otton",
-         "price": -114,
-         "point": 35.5
+         "price": -113,
+         "point": 33.5
         },
         {
          "name": "Under",
          "description": "Cade Otton",
-         "price": -114,
-         "point": 35.5
+         "price": -113,
+         "point": 33.5
         },
         {
          "name": "Over",
          "description": "Drake London",
-         "price": -114,
+         "price": -113,
          "point": 79.5
         },
         {
          "name": "Under",
          "description": "Drake London",
-         "price": -114,
+         "price": -113,
          "point": 79.5
         },
         {
          "name": "Over",
          "description": "Kyle Pitts",
-         "price": -114,
+         "price": -113,
          "point": 35.5
         },
         {
          "name": "Under",
          "description": "Kyle Pitts",
-         "price": -114,
+         "price": -113,
          "point": 35.5
         },
         {
          "name": "Over",
          "description": "Chris Godwin",
-         "price": -114,
+         "price": -113,
          "point": 39.5
         },
         {
          "name": "Under",
          "description": "Chris Godwin",
-         "price": -114,
+         "price": -113,
          "point": 39.5
         },
         {
          "name": "Over",
          "description": "Tez Johnson",
-         "price": -114,
-         "point": 29.5
+         "price": -113,
+         "point": 31.5
         },
         {
          "name": "Under",
          "description": "Tez Johnson",
-         "price": -114,
-         "point": 29.5
+         "price": -113,
+         "point": 31.5
         },
         {
          "name": "Over",
          "description": "Bucky Irving",
-         "price": -114,
-         "point": 17.5
+         "price": -113,
+         "point": 15.5
         },
         {
          "name": "Under",
          "description": "Bucky Irving",
-         "price": -114,
-         "point": 17.5
+         "price": -113,
+         "point": 15.5
         },
         {
          "name": "Over",
          "description": "Ted Hurst III",
-         "price": -114,
-         "point": 30.5
+         "price": -113,
+         "point": 31.5
         },
         {
          "name": "Under",
          "description": "Ted Hurst III",
-         "price": -114,
-         "point": 30.5
+         "price": -113,
+         "point": 31.5
+        },
+        {
+         "name": "Over",
+         "description": "Austin Hooper",
+         "price": -113,
+         "point": 5.5
+        },
+        {
+         "name": "Under",
+         "description": "Austin Hooper",
+         "price": -113,
+         "point": 5.5
         },
         {
          "name": "Over",
          "description": "Kenny Gainwell",
-         "price": -114,
+         "price": -113,
          "point": 11.5
         },
         {
          "name": "Under",
          "description": "Kenny Gainwell",
-         "price": -114,
+         "price": -113,
          "point": 11.5
         },
         {
          "name": "Over",
          "description": "Bijan Robinson",
-         "price": -114,
-         "point": 29.5
+         "price": -113,
+         "point": 31.5
         },
         {
          "name": "Under",
          "description": "Bijan Robinson",
-         "price": -114,
-         "point": 29.5
+         "price": -113,
+         "point": 31.5
+        },
+        {
+         "name": "Over",
+         "description": "Zachariah Branch",
+         "price": -113,
+         "point": 8.5
+        },
+        {
+         "name": "Under",
+         "description": "Zachariah Branch",
+         "price": -113,
+         "point": 8.5
         },
         {
          "name": "Over",
          "description": "Jahan Dotson",
-         "price": -114,
+         "price": -113,
          "point": 25.5
         },
         {
          "name": "Under",
          "description": "Jahan Dotson",
-         "price": -114,
+         "price": -113,
          "point": 25.5
         }
        ]
       },
       {
        "key": "player_rush_yds",
-       "last_update": "2026-10-31T00:15:34Z",
+       "last_update": "2026-11-01T12:13:15Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Baker Mayfield",
-         "price": -114,
+         "price": -113,
          "point": 16.5
         },
         {
          "name": "Under",
          "description": "Baker Mayfield",
-         "price": -114,
+         "price": -113,
          "point": 16.5
         },
         {
          "name": "Over",
+         "description": "Khalil Herbert",
+         "price": -113,
+         "point": 7.5
+        },
+        {
+         "name": "Under",
+         "description": "Khalil Herbert",
+         "price": -113,
+         "point": 7.5
+        },
+        {
+         "name": "Over",
          "description": "Bijan Robinson",
-         "price": -114,
+         "price": -113,
          "point": 80.5
         },
         {
          "name": "Under",
          "description": "Bijan Robinson",
-         "price": -114,
+         "price": -113,
          "point": 80.5
         },
         {
          "name": "Over",
          "description": "Michael Penix Jr.",
          "price": -128,
-         "point": 1.5
+         "point": 2.5
         },
         {
          "name": "Under",
          "description": "Michael Penix Jr.",
-         "price": -102,
-         "point": 1.5
+         "price": 100,
+         "point": 2.5
         },
         {
          "name": "Over",
          "description": "Bucky Irving",
-         "price": -114,
+         "price": -113,
          "point": 70.5
         },
         {
          "name": "Under",
          "description": "Bucky Irving",
-         "price": -114,
+         "price": -113,
          "point": 70.5
         },
         {
          "name": "Over",
          "description": "Kenny Gainwell",
-         "price": -114,
+         "price": -113,
          "point": 14.5
         },
         {
          "name": "Under",
          "description": "Kenny Gainwell",
-         "price": -114,
+         "price": -113,
          "point": 14.5
+        },
+        {
+         "name": "Over",
+         "description": "Sean Tucker",
+         "price": -113,
+         "point": 6.5
+        },
+        {
+         "name": "Under",
+         "description": "Sean Tucker",
+         "price": -113,
+         "point": 6.5
         }
        ]
       }
@@ -2293,283 +2353,295 @@
      "markets": [
       {
        "key": "player_pass_yds",
-       "last_update": "2026-10-31T00:15:35Z",
+       "last_update": "2026-11-01T12:13:18Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Josh Allen",
-         "price": -114,
+         "price": -113,
          "point": 247.5
         },
         {
          "name": "Under",
          "description": "Josh Allen",
-         "price": -114,
+         "price": -113,
          "point": 247.5
         },
         {
          "name": "Over",
          "description": "Lamar Jackson",
-         "price": -114,
+         "price": -113,
          "point": 237.5
         },
         {
          "name": "Under",
          "description": "Lamar Jackson",
-         "price": -114,
+         "price": -113,
          "point": 237.5
         }
        ]
       },
       {
        "key": "player_reception_yds",
-       "last_update": "2026-10-31T00:15:35Z",
+       "last_update": "2026-11-01T12:13:18Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Keon Coleman",
-         "price": -114,
+         "price": -113,
          "point": 29.5
         },
         {
          "name": "Under",
          "description": "Keon Coleman",
-         "price": -114,
+         "price": -113,
          "point": 29.5
         },
         {
          "name": "Over",
          "description": "Rashod Bateman",
-         "price": -114,
+         "price": -113,
          "point": 23.5
         },
         {
          "name": "Under",
          "description": "Rashod Bateman",
-         "price": -114,
+         "price": -113,
          "point": 23.5
         },
         {
          "name": "Over",
          "description": "DJ Moore",
-         "price": -114,
+         "price": -113,
          "point": 53.5
         },
         {
          "name": "Under",
          "description": "DJ Moore",
-         "price": -114,
+         "price": -113,
          "point": 53.5
         },
         {
          "name": "Over",
          "description": "Dalton Kincaid",
-         "price": -114,
+         "price": -113,
          "point": 46.5
         },
         {
          "name": "Under",
          "description": "Dalton Kincaid",
-         "price": -114,
+         "price": -113,
          "point": 46.5
         },
         {
          "name": "Over",
          "description": "Zay Flowers",
-         "price": -114,
+         "price": -113,
          "point": 82.5
         },
         {
          "name": "Under",
          "description": "Zay Flowers",
-         "price": -114,
+         "price": -113,
          "point": 82.5
         },
         {
          "name": "Over",
          "description": "James Cook",
-         "price": -114,
+         "price": -113,
          "point": 9.5
         },
         {
          "name": "Under",
          "description": "James Cook",
-         "price": -114,
+         "price": -113,
          "point": 9.5
         },
         {
          "name": "Over",
          "description": "Ty Johnson",
-         "price": -114,
+         "price": -113,
          "point": 15.5
         },
         {
          "name": "Under",
          "description": "Ty Johnson",
-         "price": -114,
+         "price": -113,
          "point": 15.5
         },
         {
          "name": "Over",
          "description": "Derrick Henry",
-         "price": -114,
+         "price": -113,
          "point": 6.5
         },
         {
          "name": "Under",
          "description": "Derrick Henry",
-         "price": -114,
+         "price": -113,
          "point": 6.5
         },
         {
          "name": "Over",
          "description": "Khalil Shakir",
-         "price": -114,
+         "price": -113,
          "point": 41.5
         },
         {
          "name": "Under",
          "description": "Khalil Shakir",
-         "price": -114,
+         "price": -113,
          "point": 41.5
         },
         {
          "name": "Over",
          "description": "Justice Hill",
-         "price": -114,
+         "price": -113,
          "point": 10.5
         },
         {
          "name": "Under",
          "description": "Justice Hill",
-         "price": -114,
+         "price": -113,
          "point": 10.5
         },
         {
          "name": "Over",
          "description": "Mark Andrews",
-         "price": -114,
+         "price": -113,
          "point": 27.5
         },
         {
          "name": "Under",
          "description": "Mark Andrews",
-         "price": -114,
+         "price": -113,
          "point": 27.5
         },
         {
          "name": "Over",
          "description": "Josh Cuevas",
-         "price": -114,
+         "price": -113,
          "point": 9.5
         },
         {
          "name": "Under",
          "description": "Josh Cuevas",
-         "price": -114,
+         "price": -113,
          "point": 9.5
         },
         {
          "name": "Over",
          "description": "Devontez Walker",
-         "price": 112,
+         "price": 118,
          "point": 4.5
         },
         {
          "name": "Under",
          "description": "Devontez Walker",
-         "price": -146,
+         "price": -150,
          "point": 4.5
         },
         {
          "name": "Over",
          "description": "Ja'Kobi Lane",
-         "price": -114,
+         "price": -113,
          "point": 32.5
         },
         {
          "name": "Under",
          "description": "Ja'Kobi Lane",
-         "price": -114,
+         "price": -113,
          "point": 32.5
         }
        ]
       },
       {
        "key": "player_rush_yds",
-       "last_update": "2026-10-31T00:15:35Z",
+       "last_update": "2026-11-01T12:13:18Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Lamar Jackson",
-         "price": -114,
+         "price": -113,
          "point": 25.5
         },
         {
          "name": "Under",
          "description": "Lamar Jackson",
-         "price": -114,
+         "price": -113,
          "point": 25.5
         },
         {
          "name": "Over",
          "description": "Justice Hill",
-         "price": -114,
+         "price": -113,
          "point": 10.5
         },
         {
          "name": "Under",
          "description": "Justice Hill",
-         "price": -114,
+         "price": -113,
          "point": 10.5
         },
         {
          "name": "Over",
          "description": "Ray Davis",
-         "price": -114,
+         "price": -113,
          "point": 4.5
         },
         {
          "name": "Under",
          "description": "Ray Davis",
-         "price": -114,
+         "price": -113,
          "point": 4.5
         },
         {
          "name": "Over",
          "description": "Josh Allen",
-         "price": -114,
+         "price": -113,
          "point": 35.5
         },
         {
          "name": "Under",
          "description": "Josh Allen",
-         "price": -114,
+         "price": -113,
          "point": 35.5
         },
         {
          "name": "Over",
          "description": "James Cook",
-         "price": -114,
+         "price": -113,
          "point": 82.5
         },
         {
          "name": "Under",
          "description": "James Cook",
-         "price": -114,
+         "price": -113,
          "point": 82.5
         },
         {
          "name": "Over",
          "description": "Derrick Henry",
-         "price": -114,
+         "price": -113,
          "point": 78.5
         },
         {
          "name": "Under",
          "description": "Derrick Henry",
-         "price": -114,
+         "price": -113,
          "point": 78.5
+        },
+        {
+         "name": "Over",
+         "description": "Ty Johnson",
+         "price": -113,
+         "point": 1.5
+        },
+        {
+         "name": "Under",
+         "description": "Ty Johnson",
+         "price": -113,
+         "point": 1.5
         }
        ]
       }
@@ -2591,282 +2663,282 @@
      "markets": [
       {
        "key": "player_pass_yds",
-       "last_update": "2026-10-31T00:15:33Z",
+       "last_update": "2026-11-01T12:13:16Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Joe Burrow",
-         "price": -114,
+         "price": -113,
          "point": 272.5
         },
         {
          "name": "Under",
          "description": "Joe Burrow",
-         "price": -114,
+         "price": -113,
          "point": 272.5
         },
         {
          "name": "Over",
          "description": "Cam Ward",
-         "price": -114,
+         "price": -113,
          "point": 192.5
         },
         {
          "name": "Under",
          "description": "Cam Ward",
-         "price": -114,
+         "price": -113,
          "point": 192.5
         }
        ]
       },
       {
        "key": "player_reception_yds",
-       "last_update": "2026-10-31T00:15:33Z",
+       "last_update": "2026-11-01T12:13:16Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Elic Ayomanor",
-         "price": -114,
+         "price": -113,
          "point": 32.5
         },
         {
          "name": "Under",
          "description": "Elic Ayomanor",
-         "price": -114,
+         "price": -113,
          "point": 32.5
         },
         {
          "name": "Over",
          "description": "Chase Brown",
-         "price": -114,
+         "price": -113,
          "point": 18.5
         },
         {
          "name": "Under",
          "description": "Chase Brown",
-         "price": -114,
+         "price": -113,
          "point": 18.5
         },
         {
          "name": "Over",
          "description": "Daniel Bellinger",
-         "price": -114,
+         "price": -113,
          "point": 10.5
         },
         {
          "name": "Under",
          "description": "Daniel Bellinger",
-         "price": -114,
+         "price": -113,
          "point": 10.5
         },
         {
          "name": "Over",
          "description": "Tony Pollard",
-         "price": -114,
+         "price": -113,
          "point": 14.5
         },
         {
          "name": "Under",
          "description": "Tony Pollard",
-         "price": -114,
+         "price": -113,
          "point": 14.5
         },
         {
          "name": "Over",
          "description": "Samaje Perine",
-         "price": -114,
+         "price": -113,
          "point": 7.5
         },
         {
          "name": "Under",
          "description": "Samaje Perine",
-         "price": -114,
+         "price": -113,
          "point": 7.5
         },
         {
          "name": "Over",
          "description": "Calvin Ridley",
-         "price": -114,
+         "price": -113,
          "point": 22.5
         },
         {
          "name": "Under",
          "description": "Calvin Ridley",
-         "price": -114,
+         "price": -113,
          "point": 22.5
         },
         {
          "name": "Over",
          "description": "Michael Carter",
-         "price": -114,
-         "point": 8.5
+         "price": -113,
+         "point": 7.5
         },
         {
          "name": "Under",
          "description": "Michael Carter",
-         "price": -114,
-         "point": 8.5
+         "price": -113,
+         "point": 7.5
         },
         {
          "name": "Over",
          "description": "Dohnte Meyers",
-         "price": -114,
+         "price": -113,
          "point": 14.5
         },
         {
          "name": "Under",
          "description": "Dohnte Meyers",
-         "price": -114,
+         "price": -113,
          "point": 14.5
         },
         {
          "name": "Over",
          "description": "Drew Sample",
-         "price": -114,
+         "price": -113,
          "point": 8.5
         },
         {
          "name": "Under",
          "description": "Drew Sample",
-         "price": -114,
+         "price": -113,
          "point": 8.5
         },
         {
          "name": "Over",
          "description": "Mike Gesicki",
-         "price": -114,
+         "price": -113,
          "point": 22.5
         },
         {
          "name": "Under",
          "description": "Mike Gesicki",
-         "price": -114,
+         "price": -113,
          "point": 22.5
         },
         {
          "name": "Over",
          "description": "Tee Higgins",
-         "price": -114,
+         "price": -113,
          "point": 70.5
         },
         {
          "name": "Under",
          "description": "Tee Higgins",
-         "price": -114,
+         "price": -113,
          "point": 70.5
         },
         {
          "name": "Over",
          "description": "Ja'Marr Chase",
-         "price": -114,
+         "price": -113,
          "point": 79.5
         },
         {
          "name": "Under",
          "description": "Ja'Marr Chase",
-         "price": -114,
+         "price": -113,
          "point": 79.5
         },
         {
          "name": "Over",
          "description": "Gunnar Helm",
-         "price": -114,
+         "price": -113,
          "point": 21.5
         },
         {
          "name": "Under",
          "description": "Gunnar Helm",
-         "price": -114,
+         "price": -113,
          "point": 21.5
         },
         {
          "name": "Over",
          "description": "Wan'Dale Robinson",
-         "price": -114,
+         "price": -113,
          "point": 48.5
         },
         {
          "name": "Under",
          "description": "Wan'Dale Robinson",
-         "price": -114,
+         "price": -113,
          "point": 48.5
         }
        ]
       },
       {
        "key": "player_rush_yds",
-       "last_update": "2026-10-31T00:15:33Z",
+       "last_update": "2026-11-01T12:13:16Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Cam Ward",
-         "price": -114,
+         "price": -113,
          "point": 7.5
         },
         {
          "name": "Under",
          "description": "Cam Ward",
-         "price": -114,
+         "price": -113,
          "point": 7.5
         },
         {
          "name": "Over",
          "description": "Tony Pollard",
-         "price": -114,
-         "point": 66.5
+         "price": -113,
+         "point": 65.5
         },
         {
          "name": "Under",
          "description": "Tony Pollard",
-         "price": -114,
-         "point": 66.5
+         "price": -113,
+         "point": 65.5
         },
         {
          "name": "Over",
          "description": "Chase Brown",
-         "price": -114,
-         "point": 56.5
+         "price": -113,
+         "point": 58.5
         },
         {
          "name": "Under",
          "description": "Chase Brown",
-         "price": -114,
-         "point": 56.5
+         "price": -113,
+         "point": 58.5
         },
         {
          "name": "Over",
          "description": "Samaje Perine",
-         "price": -114,
+         "price": -113,
          "point": 22.5
         },
         {
          "name": "Under",
          "description": "Samaje Perine",
-         "price": -114,
+         "price": -113,
          "point": 22.5
         },
         {
          "name": "Over",
          "description": "Joe Burrow",
-         "price": -114,
+         "price": -113,
          "point": 5.5
         },
         {
          "name": "Under",
          "description": "Joe Burrow",
-         "price": -114,
+         "price": -113,
          "point": 5.5
         },
         {
          "name": "Over",
          "description": "Michael Carter",
-         "price": -114,
+         "price": -113,
          "point": 12.5
         },
         {
          "name": "Under",
          "description": "Michael Carter",
-         "price": -114,
+         "price": -113,
          "point": 12.5
         }
        ]
@@ -2889,211 +2961,223 @@
      "markets": [
       {
        "key": "player_pass_yds",
-       "last_update": "2026-10-31T00:15:33Z",
+       "last_update": "2026-11-01T12:13:15Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Aaron Rodgers",
-         "price": -114,
+         "price": -113,
          "point": 218.5
         },
         {
          "name": "Under",
          "description": "Aaron Rodgers",
-         "price": -114,
+         "price": -113,
          "point": 218.5
         },
         {
          "name": "Over",
          "description": "Deshaun Watson",
-         "price": -114,
+         "price": -113,
          "point": 210.5
         },
         {
          "name": "Under",
          "description": "Deshaun Watson",
-         "price": -114,
+         "price": -113,
          "point": 210.5
         }
        ]
       },
       {
        "key": "player_reception_yds",
-       "last_update": "2026-10-31T00:15:33Z",
+       "last_update": "2026-11-01T12:13:15Z",
        "outcomes": [
         {
          "name": "Over",
-         "description": "Quinshon Judkins",
-         "price": -114,
-         "point": 9.5
-        },
-        {
-         "name": "Under",
-         "description": "Quinshon Judkins",
-         "price": -114,
-         "point": 9.5
-        },
-        {
-         "name": "Over",
-         "description": "Darnell Washington",
-         "price": -114,
-         "point": 20.5
-        },
-        {
-         "name": "Under",
-         "description": "Darnell Washington",
-         "price": -114,
-         "point": 20.5
-        },
-        {
-         "name": "Over",
          "description": "Harold Fannin Jr.",
-         "price": -114,
+         "price": -113,
          "point": 34.5
         },
         {
          "name": "Under",
          "description": "Harold Fannin Jr.",
-         "price": -114,
+         "price": -113,
          "point": 34.5
         },
         {
          "name": "Over",
          "description": "Pat Freiermuth",
-         "price": -114,
+         "price": -113,
          "point": 24.5
         },
         {
          "name": "Under",
          "description": "Pat Freiermuth",
-         "price": -114,
+         "price": -113,
          "point": 24.5
         },
         {
          "name": "Over",
          "description": "Dylan Sampson",
-         "price": -114,
+         "price": -113,
          "point": 16.5
         },
         {
          "name": "Under",
          "description": "Dylan Sampson",
-         "price": -114,
+         "price": -113,
          "point": 16.5
         },
         {
          "name": "Over",
+         "description": "Rico Dowdle",
+         "price": -113,
+         "point": 14.5
+        },
+        {
+         "name": "Under",
+         "description": "Rico Dowdle",
+         "price": -113,
+         "point": 14.5
+        },
+        {
+         "name": "Over",
+         "description": "Blake Whiteheart",
+         "price": 136,
+         "point": 4.5
+        },
+        {
+         "name": "Under",
+         "description": "Blake Whiteheart",
+         "price": -174,
+         "point": 4.5
+        },
+        {
+         "name": "Over",
+         "description": "Quinshon Judkins",
+         "price": -113,
+         "point": 9.5
+        },
+        {
+         "name": "Under",
+         "description": "Quinshon Judkins",
+         "price": -113,
+         "point": 9.5
+        },
+        {
+         "name": "Over",
+         "description": "Darnell Washington",
+         "price": -113,
+         "point": 20.5
+        },
+        {
+         "name": "Under",
+         "description": "Darnell Washington",
+         "price": -113,
+         "point": 20.5
+        },
+        {
+         "name": "Over",
          "description": "Germie Bernard",
-         "price": -114,
+         "price": -113,
          "point": 43.5
         },
         {
          "name": "Under",
          "description": "Germie Bernard",
-         "price": -114,
+         "price": -113,
          "point": 43.5
         },
         {
          "name": "Over",
          "description": "Jerry Jeudy",
-         "price": -114,
+         "price": -113,
          "point": 21.5
         },
         {
          "name": "Under",
          "description": "Jerry Jeudy",
-         "price": -114,
+         "price": -113,
          "point": 21.5
         },
         {
          "name": "Over",
          "description": "KC Concepcion",
-         "price": -114,
-         "point": 45.5
+         "price": -113,
+         "point": 46.5
         },
         {
          "name": "Under",
          "description": "KC Concepcion",
-         "price": -114,
-         "point": 45.5
+         "price": -113,
+         "point": 46.5
         },
         {
          "name": "Over",
          "description": "DK Metcalf",
-         "price": -114,
+         "price": -113,
          "point": 52.5
         },
         {
          "name": "Under",
          "description": "DK Metcalf",
-         "price": -114,
+         "price": -113,
          "point": 52.5
         },
         {
          "name": "Over",
          "description": "Jaylen Warren",
-         "price": -114,
-         "point": 25.5
+         "price": -113,
+         "point": 22.5
         },
         {
          "name": "Under",
          "description": "Jaylen Warren",
-         "price": -114,
-         "point": 25.5
-        },
-        {
-         "name": "Over",
-         "description": "Rico Dowdle",
-         "price": -114,
-         "point": 13.5
-        },
-        {
-         "name": "Under",
-         "description": "Rico Dowdle",
-         "price": -114,
-         "point": 13.5
+         "price": -113,
+         "point": 22.5
         },
         {
          "name": "Over",
          "description": "Denzel Boston",
-         "price": -114,
-         "point": 50.5
+         "price": -113,
+         "point": 47.5
         },
         {
          "name": "Under",
          "description": "Denzel Boston",
-         "price": -114,
-         "point": 50.5
+         "price": -113,
+         "point": 47.5
         }
        ]
       },
       {
        "key": "player_rush_yds",
-       "last_update": "2026-10-31T00:15:33Z",
+       "last_update": "2026-11-01T12:13:15Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Quinshon Judkins",
-         "price": -114,
+         "price": -113,
          "point": 47.5
         },
         {
          "name": "Under",
          "description": "Quinshon Judkins",
-         "price": -114,
+         "price": -113,
          "point": 47.5
         },
         {
          "name": "Over",
          "description": "Rico Dowdle",
-         "price": -114,
-         "point": 29.5
+         "price": -113,
+         "point": 31.5
         },
         {
          "name": "Under",
          "description": "Rico Dowdle",
-         "price": -114,
-         "point": 29.5
+         "price": -113,
+         "point": 31.5
         },
         {
          "name": "Over",
@@ -3104,43 +3188,43 @@
         {
          "name": "Under",
          "description": "Aaron Rodgers",
-         "price": -108,
+         "price": -106,
          "point": 0.5
         },
         {
          "name": "Over",
          "description": "Dylan Sampson",
-         "price": -114,
+         "price": -113,
          "point": 11.5
         },
         {
          "name": "Under",
          "description": "Dylan Sampson",
-         "price": -114,
+         "price": -113,
          "point": 11.5
         },
         {
          "name": "Over",
          "description": "Deshaun Watson",
-         "price": -114,
+         "price": -113,
          "point": 25.5
         },
         {
          "name": "Under",
          "description": "Deshaun Watson",
-         "price": -114,
+         "price": -113,
          "point": 25.5
         },
         {
          "name": "Over",
          "description": "Jaylen Warren",
-         "price": -114,
+         "price": -113,
          "point": 64.5
         },
         {
          "name": "Under",
          "description": "Jaylen Warren",
-         "price": -114,
+         "price": -113,
          "point": 64.5
         }
        ]
@@ -3163,186 +3247,186 @@
      "markets": [
       {
        "key": "player_pass_yds",
-       "last_update": "2026-10-31T00:14:22Z",
+       "last_update": "2026-11-01T12:12:58Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Kyler Murray",
-         "price": -114,
+         "price": -113,
          "point": 224.5
         },
         {
          "name": "Under",
          "description": "Kyler Murray",
-         "price": -114,
+         "price": -113,
          "point": 224.5
         },
         {
          "name": "Over",
          "description": "Jared Goff",
-         "price": -114,
+         "price": -113,
          "point": 259.5
         },
         {
          "name": "Under",
          "description": "Jared Goff",
-         "price": -114,
+         "price": -113,
          "point": 259.5
         }
        ]
       },
       {
        "key": "player_reception_yds",
-       "last_update": "2026-10-31T00:14:22Z",
+       "last_update": "2026-11-01T12:12:58Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Amon-Ra St. Brown",
-         "price": -114,
+         "price": -113,
          "point": 77.5
         },
         {
          "name": "Under",
          "description": "Amon-Ra St. Brown",
-         "price": -114,
+         "price": -113,
          "point": 77.5
         },
         {
          "name": "Over",
          "description": "T.J. Hockenson",
-         "price": -114,
-         "point": 39.5
+         "price": -113,
+         "point": 40.5
         },
         {
          "name": "Under",
          "description": "T.J. Hockenson",
-         "price": -114,
-         "point": 39.5
+         "price": -113,
+         "point": 40.5
         },
         {
          "name": "Over",
          "description": "Aaron Jones",
-         "price": -114,
-         "point": 7.5
+         "price": -113,
+         "point": 9.5
         },
         {
          "name": "Under",
          "description": "Aaron Jones",
-         "price": -114,
-         "point": 7.5
+         "price": -113,
+         "point": 9.5
         },
         {
          "name": "Over",
          "description": "Jordan Addison",
-         "price": -114,
+         "price": -113,
          "point": 37.5
         },
         {
          "name": "Under",
          "description": "Jordan Addison",
-         "price": -114,
+         "price": -113,
          "point": 37.5
         },
         {
          "name": "Over",
          "description": "Jahmyr Gibbs",
-         "price": -114,
+         "price": -113,
          "point": 28.5
         },
         {
          "name": "Under",
          "description": "Jahmyr Gibbs",
-         "price": -114,
+         "price": -113,
          "point": 28.5
         },
         {
          "name": "Over",
          "description": "Justin Jefferson",
-         "price": -114,
+         "price": -113,
          "point": 75.5
         },
         {
          "name": "Under",
          "description": "Justin Jefferson",
-         "price": -114,
+         "price": -113,
          "point": 75.5
         },
         {
          "name": "Over",
          "description": "Sam LaPorta",
-         "price": -114,
+         "price": -113,
          "point": 45.5
         },
         {
          "name": "Under",
          "description": "Sam LaPorta",
-         "price": -114,
+         "price": -113,
          "point": 45.5
         },
         {
          "name": "Over",
          "description": "Jauan Jennings",
-         "price": -114,
-         "point": 14.5
+         "price": -113,
+         "point": 12.5
         },
         {
          "name": "Under",
          "description": "Jauan Jennings",
-         "price": -114,
-         "point": 14.5
+         "price": -113,
+         "point": 12.5
         },
         {
          "name": "Over",
          "description": "Jameson Williams",
-         "price": -114,
+         "price": -113,
          "point": 51.5
         },
         {
          "name": "Under",
          "description": "Jameson Williams",
-         "price": -114,
+         "price": -113,
          "point": 51.5
         },
         {
          "name": "Over",
          "description": "Isaac TeSlaa",
-         "price": -114,
-         "point": 19.5
+         "price": -113,
+         "point": 18.5
         },
         {
          "name": "Under",
          "description": "Isaac TeSlaa",
-         "price": -114,
-         "point": 19.5
+         "price": -113,
+         "point": 18.5
         }
        ]
       },
       {
        "key": "player_rush_yds",
-       "last_update": "2026-10-31T00:14:22Z",
+       "last_update": "2026-11-01T12:12:58Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Jahmyr Gibbs",
-         "price": -114,
+         "price": -113,
          "point": 87.5
         },
         {
          "name": "Under",
          "description": "Jahmyr Gibbs",
-         "price": -114,
+         "price": -113,
          "point": 87.5
         },
         {
          "name": "Over",
          "description": "Aaron Jones",
-         "price": -114,
+         "price": -113,
          "point": 29.5
         },
         {
          "name": "Under",
          "description": "Aaron Jones",
-         "price": -114,
+         "price": -113,
          "point": 29.5
         },
         {
@@ -3354,19 +3438,19 @@
         {
          "name": "Under",
          "description": "Jared Goff",
-         "price": 108,
+         "price": 110,
          "point": 0.5
         },
         {
          "name": "Over",
          "description": "Jordan Mason",
-         "price": -114,
+         "price": -113,
          "point": 49.5
         },
         {
          "name": "Under",
          "description": "Jordan Mason",
-         "price": -114,
+         "price": -113,
          "point": 49.5
         },
         {
@@ -3378,19 +3462,19 @@
         {
          "name": "Under",
          "description": "Sione Vaki",
-         "price": -108,
+         "price": -106,
          "point": 4.5
         },
         {
          "name": "Over",
          "description": "Kyler Murray",
-         "price": -114,
+         "price": -113,
          "point": 24.5
         },
         {
          "name": "Under",
          "description": "Kyler Murray",
-         "price": -114,
+         "price": -113,
          "point": 24.5
         }
        ]
@@ -3413,259 +3497,271 @@
      "markets": [
       {
        "key": "player_pass_yds",
-       "last_update": "2026-10-31T00:15:38Z",
+       "last_update": "2026-11-01T12:13:02Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Trevor Lawrence",
-         "price": -114,
-         "point": 240.5
+         "price": -113,
+         "point": 237.5
         },
         {
          "name": "Under",
          "description": "Trevor Lawrence",
-         "price": -114,
-         "point": 240.5
+         "price": -113,
+         "point": 237.5
         },
         {
          "name": "Over",
          "description": "Daniel Jones",
-         "price": -114,
-         "point": 188.5
+         "price": -113,
+         "point": 192.5
         },
         {
          "name": "Under",
          "description": "Daniel Jones",
-         "price": -114,
-         "point": 188.5
+         "price": -113,
+         "point": 192.5
         }
        ]
       },
       {
        "key": "player_reception_yds",
-       "last_update": "2026-10-31T00:15:38Z",
+       "last_update": "2026-11-01T12:13:02Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Jonathan Taylor",
-         "price": -114,
-         "point": 17.5
+         "price": -113,
+         "point": 15.5
         },
         {
          "name": "Under",
          "description": "Jonathan Taylor",
-         "price": -114,
-         "point": 17.5
+         "price": -113,
+         "point": 15.5
         },
         {
          "name": "Over",
          "description": "Josh Cameron",
-         "price": -114,
-         "point": 23.5
+         "price": -113,
+         "point": 20.5
         },
         {
          "name": "Under",
          "description": "Josh Cameron",
-         "price": -114,
-         "point": 23.5
+         "price": -113,
+         "point": 20.5
         },
         {
          "name": "Over",
          "description": "Nate Boerkircher",
-         "price": -114,
-         "point": 6.5
+         "price": -113,
+         "point": 8.5
         },
         {
          "name": "Under",
          "description": "Nate Boerkircher",
-         "price": -114,
-         "point": 6.5
+         "price": -113,
+         "point": 8.5
+        },
+        {
+         "name": "Over",
+         "description": "Ashton Dulin",
+         "price": -102,
+         "point": 5.5
+        },
+        {
+         "name": "Under",
+         "description": "Ashton Dulin",
+         "price": -125,
+         "point": 5.5
         },
         {
          "name": "Over",
          "description": "Tyler Warren",
-         "price": -114,
-         "point": 35.5
+         "price": -113,
+         "point": 39.5
         },
         {
          "name": "Under",
          "description": "Tyler Warren",
-         "price": -114,
-         "point": 35.5
+         "price": -113,
+         "point": 39.5
         },
         {
          "name": "Over",
          "description": "Travis Hunter",
-         "price": -114,
-         "point": 12.5
+         "price": -113,
+         "point": 16.5
         },
         {
          "name": "Under",
          "description": "Travis Hunter",
-         "price": -114,
-         "point": 12.5
+         "price": -113,
+         "point": 16.5
         },
         {
          "name": "Over",
          "description": "Parker Washington",
-         "price": -114,
+         "price": -113,
          "point": 67.5
         },
         {
          "name": "Under",
          "description": "Parker Washington",
-         "price": -114,
+         "price": -113,
          "point": 67.5
         },
         {
          "name": "Over",
          "description": "Brian Thomas Jr",
-         "price": -114,
-         "point": 18.5
+         "price": -113,
+         "point": 15.5
         },
         {
          "name": "Under",
          "description": "Brian Thomas Jr",
-         "price": -114,
-         "point": 18.5
+         "price": -113,
+         "point": 15.5
         },
         {
          "name": "Over",
          "description": "Josh Downs",
-         "price": -114,
+         "price": -113,
          "point": 32.5
         },
         {
          "name": "Under",
          "description": "Josh Downs",
-         "price": -114,
+         "price": -113,
          "point": 32.5
         },
         {
          "name": "Over",
          "description": "Laquon Treadwell",
-         "price": -114,
+         "price": -113,
          "point": 25.5
         },
         {
          "name": "Under",
          "description": "Laquon Treadwell",
-         "price": -114,
+         "price": -113,
          "point": 25.5
         },
         {
          "name": "Over",
          "description": "Bhayshul Tuten",
-         "price": -114,
-         "point": 14.5
+         "price": -113,
+         "point": 13.5
         },
         {
          "name": "Under",
          "description": "Bhayshul Tuten",
-         "price": -114,
-         "point": 14.5
+         "price": -113,
+         "point": 13.5
         },
         {
          "name": "Over",
          "description": "Keenan Allen",
-         "price": -114,
+         "price": -113,
          "point": 35.5
         },
         {
          "name": "Under",
          "description": "Keenan Allen",
-         "price": -114,
+         "price": -113,
          "point": 35.5
         },
         {
          "name": "Over",
          "description": "Brenton Strange",
-         "price": -114,
-         "point": 39.5
+         "price": -113,
+         "point": 41.5
         },
         {
          "name": "Under",
          "description": "Brenton Strange",
-         "price": -114,
-         "point": 39.5
+         "price": -113,
+         "point": 41.5
         }
        ]
       },
       {
        "key": "player_rush_yds",
-       "last_update": "2026-10-31T00:15:38Z",
+       "last_update": "2026-11-01T12:13:02Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Daniel Jones",
-         "price": -114,
+         "price": -113,
          "point": 7.5
         },
         {
          "name": "Under",
          "description": "Daniel Jones",
-         "price": -114,
+         "price": -113,
          "point": 7.5
         },
         {
          "name": "Over",
          "description": "Chris Rodriguez Jr.",
-         "price": -114,
+         "price": -113,
          "point": 31.5
         },
         {
          "name": "Under",
          "description": "Chris Rodriguez Jr.",
-         "price": -114,
+         "price": -113,
          "point": 31.5
         },
         {
          "name": "Over",
          "description": "Trevor Lawrence",
-         "price": -114,
-         "point": 10.5
+         "price": -113,
+         "point": 11.5
         },
         {
          "name": "Under",
          "description": "Trevor Lawrence",
-         "price": -114,
-         "point": 10.5
+         "price": -113,
+         "point": 11.5
         },
         {
          "name": "Over",
          "description": "Bhayshul Tuten",
-         "price": -114,
-         "point": 64.5
+         "price": -113,
+         "point": 65.5
         },
         {
          "name": "Under",
          "description": "Bhayshul Tuten",
-         "price": -114,
-         "point": 64.5
+         "price": -113,
+         "point": 65.5
         },
         {
          "name": "Over",
          "description": "Jonathan Taylor",
-         "price": -114,
-         "point": 56.5
+         "price": -113,
+         "point": 50.5
         },
         {
          "name": "Under",
          "description": "Jonathan Taylor",
-         "price": -114,
-         "point": 56.5
+         "price": -113,
+         "point": 50.5
         },
         {
          "name": "Over",
          "description": "Seth McGowan",
-         "price": -114,
-         "point": 19.5
+         "price": -113,
+         "point": 22.5
         },
         {
          "name": "Under",
          "description": "Seth McGowan",
-         "price": -114,
-         "point": 19.5
+         "price": -113,
+         "point": 22.5
         }
        ]
       }
@@ -3687,199 +3783,211 @@
      "markets": [
       {
        "key": "player_pass_yds",
-       "last_update": "2026-10-31T00:15:34Z",
+       "last_update": "2026-11-01T12:13:25Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Kirk Cousins",
-         "price": -114,
-         "point": 239.5
+         "price": -113,
+         "point": 232.5
         },
         {
          "name": "Under",
          "description": "Kirk Cousins",
-         "price": -114,
-         "point": 239.5
+         "price": -113,
+         "point": 232.5
         },
         {
          "name": "Over",
          "description": "Geno Smith",
-         "price": -114,
+         "price": -113,
          "point": 225.5
         },
         {
          "name": "Under",
          "description": "Geno Smith",
-         "price": -114,
+         "price": -113,
          "point": 225.5
         }
        ]
       },
       {
        "key": "player_reception_yds",
-       "last_update": "2026-10-31T00:15:34Z",
+       "last_update": "2026-11-01T12:13:25Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Ashton Jeanty",
-         "price": -114,
+         "price": -113,
          "point": 27.5
         },
         {
          "name": "Under",
          "description": "Ashton Jeanty",
-         "price": -114,
+         "price": -113,
          "point": 27.5
         },
         {
          "name": "Over",
          "description": "Kenyon Sadiq",
-         "price": -114,
+         "price": -113,
          "point": 16.5
         },
         {
          "name": "Under",
          "description": "Kenyon Sadiq",
-         "price": -114,
+         "price": -113,
          "point": 16.5
         },
         {
          "name": "Over",
          "description": "Mason Taylor",
-         "price": -114,
+         "price": -113,
          "point": 22.5
         },
         {
          "name": "Under",
          "description": "Mason Taylor",
-         "price": -114,
+         "price": -113,
          "point": 22.5
         },
         {
          "name": "Over",
          "description": "Adonai Mitchell",
-         "price": -114,
+         "price": -113,
          "point": 24.5
         },
         {
          "name": "Under",
          "description": "Adonai Mitchell",
-         "price": -114,
+         "price": -113,
          "point": 24.5
         },
         {
          "name": "Over",
          "description": "Tre Tucker",
-         "price": -114,
+         "price": -113,
          "point": 48.5
         },
         {
          "name": "Under",
          "description": "Tre Tucker",
-         "price": -114,
+         "price": -113,
          "point": 48.5
         },
         {
          "name": "Over",
          "description": "Michael Mayer",
-         "price": -114,
+         "price": -113,
          "point": 25.5
         },
         {
          "name": "Under",
          "description": "Michael Mayer",
-         "price": -114,
+         "price": -113,
          "point": 25.5
         },
         {
          "name": "Over",
          "description": "Omar Cooper Jr.",
-         "price": -114,
+         "price": -113,
          "point": 41.5
         },
         {
          "name": "Under",
          "description": "Omar Cooper Jr.",
-         "price": -114,
+         "price": -113,
          "point": 41.5
         },
         {
          "name": "Over",
          "description": "Garrett Wilson",
-         "price": -114,
+         "price": -113,
          "point": 63.5
         },
         {
          "name": "Under",
          "description": "Garrett Wilson",
-         "price": -114,
+         "price": -113,
          "point": 63.5
         },
         {
          "name": "Over",
          "description": "Brock Bowers",
-         "price": -114,
-         "point": 65.5
+         "price": -113,
+         "point": 68.5
         },
         {
          "name": "Under",
          "description": "Brock Bowers",
-         "price": -114,
-         "point": 65.5
+         "price": -113,
+         "point": 68.5
         },
         {
          "name": "Over",
          "description": "Jalen Nailor",
-         "price": -114,
+         "price": -113,
          "point": 17.5
         },
         {
          "name": "Under",
          "description": "Jalen Nailor",
-         "price": -114,
+         "price": -113,
          "point": 17.5
         }
        ]
       },
       {
        "key": "player_rush_yds",
-       "last_update": "2026-10-31T00:15:34Z",
+       "last_update": "2026-11-01T12:13:25Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Ashton Jeanty",
-         "price": -114,
+         "price": -113,
          "point": 49.5
         },
         {
          "name": "Under",
          "description": "Ashton Jeanty",
-         "price": -114,
+         "price": -113,
          "point": 49.5
         },
         {
          "name": "Over",
+         "description": "Mike Washington Jr.",
+         "price": -113,
+         "point": 31.5
+        },
+        {
+         "name": "Under",
+         "description": "Mike Washington Jr.",
+         "price": -113,
+         "point": 31.5
+        },
+        {
+         "name": "Over",
          "description": "Geno Smith",
-         "price": -114,
+         "price": -113,
          "point": 6.5
         },
         {
          "name": "Under",
          "description": "Geno Smith",
-         "price": -114,
+         "price": -113,
          "point": 6.5
         },
         {
          "name": "Over",
-         "description": "Mike Washington Jr.",
-         "price": -114,
-         "point": 31.5
+         "description": "Kirk Cousins",
+         "price": -102,
+         "point": 0.5
         },
         {
          "name": "Under",
-         "description": "Mike Washington Jr.",
-         "price": -114,
-         "point": 31.5
+         "description": "Kirk Cousins",
+         "price": -125,
+         "point": 0.5
         }
        ]
       }
@@ -3901,176 +4009,236 @@
      "markets": [
       {
        "key": "player_pass_yds",
-       "last_update": "2026-10-31T00:15:40Z",
+       "last_update": "2026-11-01T12:13:41Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Matthew Stafford",
-         "price": -114,
-         "point": 250.5
+         "price": -113,
+         "point": 248.5
         },
         {
          "name": "Under",
          "description": "Matthew Stafford",
-         "price": -114,
-         "point": 250.5
+         "price": -113,
+         "point": 248.5
         },
         {
          "name": "Over",
          "description": "Justin Herbert",
-         "price": -114,
+         "price": -113,
          "point": 205.5
         },
         {
          "name": "Under",
          "description": "Justin Herbert",
-         "price": -114,
+         "price": -113,
          "point": 205.5
         }
        ]
       },
       {
        "key": "player_reception_yds",
-       "last_update": "2026-10-31T00:15:40Z",
+       "last_update": "2026-11-01T12:13:41Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Keaton Mitchell",
-         "price": -114,
+         "price": -113,
          "point": 6.5
         },
         {
          "name": "Under",
          "description": "Keaton Mitchell",
-         "price": -114,
+         "price": -113,
          "point": 6.5
         },
         {
          "name": "Over",
          "description": "Konata Mumpfield",
-         "price": -114,
+         "price": -113,
          "point": 17.5
         },
         {
          "name": "Under",
          "description": "Konata Mumpfield",
-         "price": -114,
+         "price": -113,
          "point": 17.5
         },
         {
          "name": "Over",
+         "description": "Quentin Johnston",
+         "price": -113,
+         "point": 33.5
+        },
+        {
+         "name": "Under",
+         "description": "Quentin Johnston",
+         "price": -113,
+         "point": 33.5
+        },
+        {
+         "name": "Over",
          "description": "Kimani Vidal",
-         "price": -114,
+         "price": -113,
          "point": 7.5
         },
         {
          "name": "Under",
          "description": "Kimani Vidal",
-         "price": -114,
+         "price": -113,
          "point": 7.5
         },
         {
          "name": "Over",
-         "description": "Blake Corum",
-         "price": -114,
-         "point": 6.5
-        },
-        {
-         "name": "Under",
-         "description": "Blake Corum",
-         "price": -114,
-         "point": 6.5
-        },
-        {
-         "name": "Over",
-         "description": "Tyler Higbee",
-         "price": -114,
-         "point": 36.5
-        },
-        {
-         "name": "Under",
-         "description": "Tyler Higbee",
-         "price": -114,
-         "point": 36.5
-        },
-        {
-         "name": "Over",
          "description": "Oronde Gadsden II",
-         "price": -114,
+         "price": -113,
          "point": 15.5
         },
         {
          "name": "Under",
          "description": "Oronde Gadsden II",
-         "price": -114,
+         "price": -113,
          "point": 15.5
         },
         {
          "name": "Over",
+         "description": "Blake Corum",
+         "price": -113,
+         "point": 6.5
+        },
+        {
+         "name": "Under",
+         "description": "Blake Corum",
+         "price": -113,
+         "point": 6.5
+        },
+        {
+         "name": "Over",
+         "description": "Tyler Higbee",
+         "price": -113,
+         "point": 36.5
+        },
+        {
+         "name": "Under",
+         "description": "Tyler Higbee",
+         "price": -113,
+         "point": 36.5
+        },
+        {
+         "name": "Over",
          "description": "Kyren Williams",
-         "price": -114,
+         "price": -113,
          "point": 23.5
         },
         {
          "name": "Under",
          "description": "Kyren Williams",
-         "price": -114,
+         "price": -113,
          "point": 23.5
         },
         {
          "name": "Over",
          "description": "Omarion Hampton",
-         "price": -114,
-         "point": 4.5
+         "price": -113,
+         "point": 5.5
         },
         {
          "name": "Under",
          "description": "Omarion Hampton",
-         "price": -114,
-         "point": 4.5
+         "price": -113,
+         "point": 5.5
+        },
+        {
+         "name": "Over",
+         "description": "Tre Harris",
+         "price": -113,
+         "point": 35.5
+        },
+        {
+         "name": "Under",
+         "description": "Tre Harris",
+         "price": -113,
+         "point": 35.5
         },
         {
          "name": "Over",
          "description": "Puka Nacua",
-         "price": -114,
+         "price": -113,
          "point": 91.5
         },
         {
          "name": "Under",
          "description": "Puka Nacua",
-         "price": -114,
+         "price": -113,
          "point": 91.5
         },
         {
          "name": "Over",
          "description": "Ladd McConkey",
-         "price": -114,
+         "price": -113,
          "point": 47.5
         },
         {
          "name": "Under",
          "description": "Ladd McConkey",
-         "price": -114,
+         "price": -113,
          "point": 47.5
         },
         {
          "name": "Over",
          "description": "Charlie Kolar",
-         "price": -114,
+         "price": -113,
          "point": 17.5
         },
         {
          "name": "Under",
          "description": "Charlie Kolar",
-         "price": -114,
+         "price": -113,
          "point": 17.5
         }
        ]
       },
       {
        "key": "player_rush_yds",
-       "last_update": "2026-10-31T00:15:40Z",
+       "last_update": "2026-11-01T12:13:41Z",
        "outcomes": [
+        {
+         "name": "Over",
+         "description": "Kyren Williams",
+         "price": -113,
+         "point": 58.5
+        },
+        {
+         "name": "Under",
+         "description": "Kyren Williams",
+         "price": -113,
+         "point": 58.5
+        },
+        {
+         "name": "Over",
+         "description": "Kimani Vidal",
+         "price": -113,
+         "point": 23.5
+        },
+        {
+         "name": "Under",
+         "description": "Kimani Vidal",
+         "price": -113,
+         "point": 23.5
+        },
+        {
+         "name": "Over",
+         "description": "Keaton Mitchell",
+         "price": -113,
+         "point": 14.5
+        },
+        {
+         "name": "Under",
+         "description": "Keaton Mitchell",
+         "price": -113,
+         "point": 14.5
+        },
         {
          "name": "Over",
          "description": "Matthew Stafford",
@@ -4080,80 +4248,56 @@
         {
          "name": "Under",
          "description": "Matthew Stafford",
-         "price": -165,
+         "price": -162,
          "point": 0.5
         },
         {
          "name": "Over",
          "description": "Blake Corum",
-         "price": -114,
+         "price": -113,
          "point": 46.5
         },
         {
          "name": "Under",
          "description": "Blake Corum",
-         "price": -114,
+         "price": -113,
          "point": 46.5
         },
         {
          "name": "Over",
-         "description": "Kyren Williams",
-         "price": -114,
-         "point": 59.5
-        },
-        {
-         "name": "Under",
-         "description": "Kyren Williams",
-         "price": -114,
-         "point": 59.5
-        },
-        {
-         "name": "Over",
          "description": "Omarion Hampton",
-         "price": -114,
+         "price": -113,
          "point": 31.5
         },
         {
          "name": "Under",
          "description": "Omarion Hampton",
-         "price": -114,
+         "price": -113,
          "point": 31.5
         },
         {
          "name": "Over",
          "description": "Justin Herbert",
-         "price": -114,
+         "price": -113,
          "point": 23.5
         },
         {
          "name": "Under",
          "description": "Justin Herbert",
-         "price": -114,
+         "price": -113,
          "point": 23.5
         },
         {
          "name": "Over",
-         "description": "Kimani Vidal",
-         "price": -114,
-         "point": 23.5
+         "description": "Puka Nacua",
+         "price": -128,
+         "point": 0.5
         },
         {
          "name": "Under",
-         "description": "Kimani Vidal",
-         "price": -114,
-         "point": 23.5
-        },
-        {
-         "name": "Over",
-         "description": "Keaton Mitchell",
-         "price": -114,
-         "point": 14.5
-        },
-        {
-         "name": "Under",
-         "description": "Keaton Mitchell",
-         "price": -114,
-         "point": 14.5
+         "description": "Puka Nacua",
+         "price": 100,
+         "point": 0.5
         }
        ]
       }
@@ -4175,211 +4319,235 @@
      "markets": [
       {
        "key": "player_pass_yds",
-       "last_update": "2026-10-31T00:15:31Z",
+       "last_update": "2026-11-01T12:13:32Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Bo Nix",
-         "price": -114,
+         "price": -113,
          "point": 208.5
         },
         {
          "name": "Under",
          "description": "Bo Nix",
-         "price": -114,
+         "price": -113,
          "point": 208.5
         },
         {
          "name": "Over",
          "description": "Patrick Mahomes",
-         "price": -114,
-         "point": 223.5
+         "price": -113,
+         "point": 220.5
         },
         {
          "name": "Under",
          "description": "Patrick Mahomes",
-         "price": -114,
-         "point": 223.5
+         "price": -113,
+         "point": 220.5
         }
        ]
       },
       {
        "key": "player_reception_yds",
-       "last_update": "2026-10-31T00:15:31Z",
+       "last_update": "2026-11-01T12:13:32Z",
        "outcomes": [
         {
          "name": "Over",
-         "description": "Travis Kelce",
-         "price": -114,
-         "point": 46.5
-        },
-        {
-         "name": "Under",
-         "description": "Travis Kelce",
-         "price": -114,
-         "point": 46.5
-        },
-        {
-         "name": "Over",
-         "description": "Kenneth Walker III",
-         "price": -114,
-         "point": 18.5
-        },
-        {
-         "name": "Under",
-         "description": "Kenneth Walker III",
-         "price": -114,
-         "point": 18.5
-        },
-        {
-         "name": "Over",
-         "description": "Emmett Johnson",
-         "price": -114,
-         "point": 7.5
-        },
-        {
-         "name": "Under",
-         "description": "Emmett Johnson",
-         "price": -114,
-         "point": 7.5
-        },
-        {
-         "name": "Over",
-         "description": "Noah Gray",
-         "price": -114,
-         "point": 13.5
-        },
-        {
-         "name": "Under",
-         "description": "Noah Gray",
-         "price": -114,
-         "point": 13.5
-        },
-        {
-         "name": "Over",
          "description": "Jonah Coleman",
-         "price": -114,
-         "point": 21.5
+         "price": -113,
+         "point": 20.5
         },
         {
          "name": "Under",
          "description": "Jonah Coleman",
-         "price": -114,
-         "point": 21.5
-        },
-        {
-         "name": "Over",
-         "description": "Evan Engram",
-         "price": -114,
-         "point": 22.5
-        },
-        {
-         "name": "Under",
-         "description": "Evan Engram",
-         "price": -114,
-         "point": 22.5
+         "price": -113,
+         "point": 20.5
         },
         {
          "name": "Over",
          "description": "Rashee Rice",
-         "price": -114,
+         "price": -113,
          "point": 51.5
         },
         {
          "name": "Under",
          "description": "Rashee Rice",
-         "price": -114,
+         "price": -113,
          "point": 51.5
         },
         {
          "name": "Over",
          "description": "Xavier Worthy",
-         "price": -114,
+         "price": -113,
          "point": 29.5
         },
         {
          "name": "Under",
          "description": "Xavier Worthy",
-         "price": -114,
+         "price": -113,
          "point": 29.5
+        },
+        {
+         "name": "Over",
+         "description": "Kenneth Walker III",
+         "price": -113,
+         "point": 18.5
+        },
+        {
+         "name": "Under",
+         "description": "Kenneth Walker III",
+         "price": -113,
+         "point": 18.5
+        },
+        {
+         "name": "Over",
+         "description": "Travis Kelce",
+         "price": -113,
+         "point": 46.5
+        },
+        {
+         "name": "Under",
+         "description": "Travis Kelce",
+         "price": -113,
+         "point": 46.5
+        },
+        {
+         "name": "Over",
+         "description": "Courtland Sutton",
+         "price": -113,
+         "point": 40.5
+        },
+        {
+         "name": "Under",
+         "description": "Courtland Sutton",
+         "price": -113,
+         "point": 40.5
+        },
+        {
+         "name": "Over",
+         "description": "Emmett Johnson",
+         "price": -113,
+         "point": 7.5
+        },
+        {
+         "name": "Under",
+         "description": "Emmett Johnson",
+         "price": -113,
+         "point": 7.5
+        },
+        {
+         "name": "Over",
+         "description": "Noah Gray",
+         "price": -113,
+         "point": 14.5
+        },
+        {
+         "name": "Under",
+         "description": "Noah Gray",
+         "price": -113,
+         "point": 14.5
+        },
+        {
+         "name": "Over",
+         "description": "Cyrus Allen",
+         "price": 102,
+         "point": 4.5
+        },
+        {
+         "name": "Under",
+         "description": "Cyrus Allen",
+         "price": -130,
+         "point": 4.5
+        },
+        {
+         "name": "Over",
+         "description": "Evan Engram",
+         "price": -113,
+         "point": 24.5
+        },
+        {
+         "name": "Under",
+         "description": "Evan Engram",
+         "price": -113,
+         "point": 24.5
         }
        ]
       },
       {
        "key": "player_rush_yds",
-       "last_update": "2026-10-31T00:15:31Z",
+       "last_update": "2026-11-01T12:13:32Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Emmett Johnson",
-         "price": -114,
+         "price": -113,
          "point": 7.5
         },
         {
          "name": "Under",
          "description": "Emmett Johnson",
-         "price": -114,
+         "price": -113,
          "point": 7.5
         },
         {
          "name": "Over",
          "description": "Patrick Mahomes",
-         "price": -114,
-         "point": 12.5
+         "price": -113,
+         "point": 13.5
         },
         {
          "name": "Under",
          "description": "Patrick Mahomes",
-         "price": -114,
-         "point": 12.5
+         "price": -113,
+         "point": 13.5
         },
         {
          "name": "Over",
          "description": "J.K. Dobbins",
-         "price": -114,
-         "point": 28.5
+         "price": -113,
+         "point": 29.5
         },
         {
          "name": "Under",
          "description": "J.K. Dobbins",
-         "price": -114,
-         "point": 28.5
+         "price": -113,
+         "point": 29.5
         },
         {
          "name": "Over",
          "description": "Jonah Coleman",
-         "price": -114,
-         "point": 45.5
+         "price": -113,
+         "point": 44.5
         },
         {
          "name": "Under",
          "description": "Jonah Coleman",
-         "price": -114,
-         "point": 45.5
+         "price": -113,
+         "point": 44.5
         },
         {
          "name": "Over",
          "description": "Bo Nix",
-         "price": -114,
+         "price": -113,
          "point": 14.5
         },
         {
          "name": "Under",
          "description": "Bo Nix",
-         "price": -114,
+         "price": -113,
          "point": 14.5
         },
         {
          "name": "Over",
          "description": "Kenneth Walker III",
-         "price": -114,
-         "point": 87.5
+         "price": -113,
+         "point": 85.5
         },
         {
          "name": "Under",
          "description": "Kenneth Walker III",
-         "price": -114,
-         "point": 87.5
+         "price": -113,
+         "point": 85.5
         }
        ]
       }
@@ -4401,156 +4569,156 @@
      "markets": [
       {
        "key": "player_pass_yds",
-       "last_update": "2026-10-31T00:15:34Z",
+       "last_update": "2026-11-01T12:13:02Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Malik Willis",
-         "price": -114,
+         "price": -113,
          "point": 185.5
         },
         {
          "name": "Under",
          "description": "Malik Willis",
-         "price": -114,
+         "price": -113,
          "point": 185.5
         },
         {
          "name": "Over",
          "description": "Drake Maye",
-         "price": -114,
-         "point": 237.5
+         "price": -113,
+         "point": 239.5
         },
         {
          "name": "Under",
          "description": "Drake Maye",
-         "price": -114,
-         "point": 237.5
+         "price": -113,
+         "point": 239.5
         }
        ]
       },
       {
        "key": "player_reception_yds",
-       "last_update": "2026-10-31T00:15:34Z",
+       "last_update": "2026-11-01T12:13:02Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Efton Chism III",
-         "price": -114,
-         "point": 21.5
+         "price": -113,
+         "point": 27.5
         },
         {
          "name": "Under",
          "description": "Efton Chism III",
-         "price": -114,
-         "point": 21.5
+         "price": -113,
+         "point": 27.5
         },
         {
          "name": "Over",
          "description": "Ollie Gordon II",
-         "price": -114,
-         "point": 9.5
+         "price": -113,
+         "point": 10.5
         },
         {
          "name": "Under",
          "description": "Ollie Gordon II",
-         "price": -114,
-         "point": 9.5
+         "price": -113,
+         "point": 10.5
         },
         {
          "name": "Over",
          "description": "Malik Washington",
-         "price": -114,
+         "price": -113,
          "point": 41.5
         },
         {
          "name": "Under",
          "description": "Malik Washington",
-         "price": -114,
+         "price": -113,
          "point": 41.5
         },
         {
          "name": "Over",
          "description": "Rhamondre Stevenson",
-         "price": -114,
+         "price": -113,
          "point": 23.5
         },
         {
          "name": "Under",
          "description": "Rhamondre Stevenson",
-         "price": -114,
+         "price": -113,
          "point": 23.5
         },
         {
          "name": "Over",
          "description": "Kyle Williams",
-         "price": -114,
-         "point": 24.5
+         "price": -113,
+         "point": 23.5
         },
         {
          "name": "Under",
          "description": "Kyle Williams",
-         "price": -114,
-         "point": 24.5
+         "price": -113,
+         "point": 23.5
         },
         {
          "name": "Over",
          "description": "Chris Bell",
-         "price": -114,
+         "price": -113,
          "point": 18.5
         },
         {
          "name": "Under",
          "description": "Chris Bell",
-         "price": -114,
+         "price": -113,
          "point": 18.5
         },
         {
          "name": "Over",
          "description": "DeMario Douglas",
-         "price": -114,
+         "price": -113,
          "point": 40.5
         },
         {
          "name": "Under",
          "description": "DeMario Douglas",
-         "price": -114,
+         "price": -113,
          "point": 40.5
         },
         {
          "name": "Over",
          "description": "Greg Dulcich",
-         "price": -114,
+         "price": -113,
          "point": 29.5
         },
         {
          "name": "Under",
          "description": "Greg Dulcich",
-         "price": -114,
+         "price": -113,
          "point": 29.5
         },
         {
          "name": "Over",
          "description": "Eli Raridon",
-         "price": -114,
-         "point": 24.5
+         "price": -113,
+         "point": 27.5
         },
         {
          "name": "Under",
          "description": "Eli Raridon",
-         "price": -114,
-         "point": 24.5
+         "price": -113,
+         "point": 27.5
         },
         {
          "name": "Over",
          "description": "Hunter Henry",
-         "price": -114,
+         "price": -113,
          "point": 45.5
         },
         {
          "name": "Under",
          "description": "Hunter Henry",
-         "price": -114,
+         "price": -113,
          "point": 45.5
         },
         {
@@ -4562,26 +4730,38 @@
         {
          "name": "Under",
          "description": "Will Kacmarek",
-         "price": -132,
+         "price": -130,
          "point": 1.5
         },
         {
          "name": "Over",
          "description": "Caleb Douglas",
-         "price": -114,
+         "price": -113,
          "point": 39.5
         },
         {
          "name": "Under",
          "description": "Caleb Douglas",
-         "price": -114,
+         "price": -113,
          "point": 39.5
+        },
+        {
+         "name": "Over",
+         "description": "Corey Kiner",
+         "price": -113,
+         "point": 1.5
+        },
+        {
+         "name": "Under",
+         "description": "Corey Kiner",
+         "price": -113,
+         "point": 1.5
         }
        ]
       },
       {
        "key": "player_rush_yds",
-       "last_update": "2026-10-31T00:15:34Z",
+       "last_update": "2026-11-01T12:13:02Z",
        "outcomes": [
         {
          "name": "Over",
@@ -4592,80 +4772,80 @@
         {
          "name": "Under",
          "description": "Malik Washington",
-         "price": -128,
+         "price": -125,
          "point": 5.5
         },
         {
          "name": "Over",
          "description": "Malik Willis",
-         "price": -114,
+         "price": -113,
          "point": 33.5
         },
         {
          "name": "Under",
          "description": "Malik Willis",
-         "price": -114,
+         "price": -113,
          "point": 33.5
         },
         {
          "name": "Over",
          "description": "Ollie Gordon II",
-         "price": -114,
-         "point": 60.5
+         "price": -113,
+         "point": 64.5
         },
         {
          "name": "Under",
          "description": "Ollie Gordon II",
-         "price": -114,
-         "point": 60.5
+         "price": -113,
+         "point": 64.5
         },
         {
          "name": "Over",
          "description": "Jaylen Wright",
-         "price": -114,
+         "price": -113,
          "point": 15.5
         },
         {
          "name": "Under",
          "description": "Jaylen Wright",
-         "price": -114,
+         "price": -113,
          "point": 15.5
         },
         {
          "name": "Over",
          "description": "Drake Maye",
-         "price": -114,
+         "price": -113,
          "point": 23.5
         },
         {
          "name": "Under",
          "description": "Drake Maye",
-         "price": -114,
+         "price": -113,
          "point": 23.5
         },
         {
          "name": "Over",
-         "description": "TreVeyon Henderson",
-         "price": -114,
-         "point": 24.5
+         "description": "Corey Kiner",
+         "price": -113,
+         "point": 36.5
         },
         {
          "name": "Under",
-         "description": "TreVeyon Henderson",
-         "price": -114,
-         "point": 24.5
+         "description": "Corey Kiner",
+         "price": -113,
+         "point": 36.5
         },
         {
          "name": "Over",
          "description": "Rhamondre Stevenson",
-         "price": -114,
-         "point": 51.5
+         "price": -113,
+         "point": 58.5
         },
         {
          "name": "Under",
          "description": "Rhamondre Stevenson",
-         "price": -114,
-         "point": 51.5
+         "price": -113,
+         "point": 58.5
         }
        ]
       }
@@ -4687,222 +4867,234 @@
      "markets": [
       {
        "key": "player_pass_yds",
-       "last_update": "2026-10-31T00:15:38Z",
+       "last_update": "2026-11-01T12:12:57Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Tanner McKee",
-         "price": -114,
-         "point": 197.5
+         "price": -113,
+         "point": 204.5
         },
         {
          "name": "Under",
          "description": "Tanner McKee",
-         "price": -114,
-         "point": 197.5
+         "price": -113,
+         "point": 204.5
         },
         {
          "name": "Over",
          "description": "Jayden Daniels",
-         "price": -114,
+         "price": -113,
          "point": 198.5
         },
         {
          "name": "Under",
          "description": "Jayden Daniels",
-         "price": -114,
+         "price": -113,
          "point": 198.5
         }
        ]
       },
       {
        "key": "player_reception_yds",
-       "last_update": "2026-10-31T00:15:38Z",
+       "last_update": "2026-11-01T12:12:57Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Dyami Brown",
-         "price": -114,
+         "price": -113,
          "point": 12.5
         },
         {
          "name": "Under",
          "description": "Dyami Brown",
-         "price": -114,
+         "price": -113,
          "point": 12.5
         },
         {
          "name": "Over",
          "description": "Rachaad White",
-         "price": -114,
-         "point": 11.5
+         "price": -102,
+         "point": 13.5
         },
         {
          "name": "Under",
          "description": "Rachaad White",
-         "price": -114,
-         "point": 11.5
+         "price": -125,
+         "point": 13.5
         },
         {
          "name": "Over",
          "description": "Antonio Williams",
-         "price": -114,
-         "point": 35.5
+         "price": -113,
+         "point": 37.5
         },
         {
          "name": "Under",
          "description": "Antonio Williams",
-         "price": -114,
-         "point": 35.5
+         "price": -113,
+         "point": 37.5
         },
         {
          "name": "Over",
          "description": "Stefon Diggs",
-         "price": -114,
+         "price": -113,
          "point": 42.5
         },
         {
          "name": "Under",
          "description": "Stefon Diggs",
-         "price": -114,
+         "price": -113,
          "point": 42.5
         },
         {
          "name": "Over",
          "description": "Saquon Barkley",
-         "price": -114,
-         "point": 12.5
+         "price": -113,
+         "point": 13.5
         },
         {
          "name": "Under",
          "description": "Saquon Barkley",
-         "price": -114,
-         "point": 12.5
+         "price": -113,
+         "point": 13.5
         },
         {
          "name": "Over",
          "description": "Chig Okonkwo",
-         "price": -114,
+         "price": -113,
          "point": 32.5
         },
         {
          "name": "Under",
          "description": "Chig Okonkwo",
-         "price": -114,
+         "price": -113,
          "point": 32.5
         },
         {
          "name": "Over",
          "description": "Dallas Goedert",
-         "price": -114,
-         "point": 42.5
+         "price": -113,
+         "point": 45.5
         },
         {
          "name": "Under",
          "description": "Dallas Goedert",
-         "price": -114,
-         "point": 42.5
+         "price": -113,
+         "point": 45.5
         },
         {
          "name": "Over",
          "description": "Darius Cooper",
-         "price": -114,
-         "point": 25.5
+         "price": -113,
+         "point": 27.5
         },
         {
          "name": "Under",
          "description": "Darius Cooper",
-         "price": -114,
-         "point": 25.5
+         "price": -113,
+         "point": 27.5
         },
         {
          "name": "Over",
          "description": "Treylon Burks",
-         "price": -114,
-         "point": 22.5
+         "price": -113,
+         "point": 21.5
         },
         {
          "name": "Under",
          "description": "Treylon Burks",
-         "price": -114,
-         "point": 22.5
+         "price": -113,
+         "point": 21.5
         },
         {
          "name": "Over",
          "description": "Makai Lemon",
-         "price": -114,
+         "price": -113,
          "point": 43.5
         },
         {
          "name": "Under",
          "description": "Makai Lemon",
-         "price": -114,
+         "price": -113,
          "point": 43.5
         }
        ]
       },
       {
        "key": "player_rush_yds",
-       "last_update": "2026-10-31T00:15:38Z",
+       "last_update": "2026-11-01T12:12:57Z",
        "outcomes": [
         {
          "name": "Over",
          "description": "Saquon Barkley",
-         "price": -114,
-         "point": 55.5
+         "price": -113,
+         "point": 52.5
         },
         {
          "name": "Under",
          "description": "Saquon Barkley",
-         "price": -114,
-         "point": 55.5
+         "price": -113,
+         "point": 52.5
+        },
+        {
+         "name": "Over",
+         "description": "Elijah Mitchell",
+         "price": -113,
+         "point": 25.5
+        },
+        {
+         "name": "Under",
+         "description": "Elijah Mitchell",
+         "price": -113,
+         "point": 25.5
         },
         {
          "name": "Over",
          "description": "Tanner McKee",
-         "price": -102,
-         "point": 2.5
+         "price": 102,
+         "point": 1.5
         },
         {
          "name": "Under",
          "description": "Tanner McKee",
-         "price": -128,
-         "point": 2.5
+         "price": -130,
+         "point": 1.5
         },
         {
          "name": "Over",
          "description": "Rachaad White",
-         "price": -114,
-         "point": 44.5
+         "price": -113,
+         "point": 39.5
         },
         {
          "name": "Under",
          "description": "Rachaad White",
-         "price": -114,
-         "point": 44.5
+         "price": -113,
+         "point": 39.5
         },
         {
          "name": "Over",
          "description": "Jeremy McNichols",
-         "price": -114,
-         "point": 20.5
+         "price": -113,
+         "point": 19.5
         },
         {
          "name": "Under",
          "description": "Jeremy McNichols",
-         "price": -114,
-         "point": 20.5
+         "price": -113,
+         "point": 19.5
         },
         {
          "name": "Over",
          "description": "Jayden Daniels",
-         "price": -114,
+         "price": -113,
          "point": 36.5
         },
         {
          "name": "Under",
          "description": "Jayden Daniels",
-         "price": -114,
+         "price": -113,
          "point": 36.5
         }
        ]
@@ -4925,7 +5117,7 @@
      "markets": [
       {
        "key": "player_pass_yds",
-       "last_update": "2026-10-31T00:15:33Z",
+       "last_update": "2026-11-01T12:13:12Z",
        "outcomes": [
         {
          "name": "Over",
@@ -4955,10 +5147,82 @@
       },
       {
        "key": "player_reception_yds",
-       "last_update": "2026-10-31T00:15:33Z",
+       "last_update": "2026-11-01T12:13:12Z",
        "outcomes": [
         {
          "name": "Over",
+         "description": "D'Andre Swift",
+         "price": -114,
+         "point": 17.5
+        },
+        {
+         "name": "Under",
+         "description": "D'Andre Swift",
+         "price": -114,
+         "point": 17.5
+        },
+        {
+         "name": "Over",
+         "description": "Cooper Kupp",
+         "price": -114,
+         "point": 29.5
+        },
+        {
+         "name": "Under",
+         "description": "Cooper Kupp",
+         "price": -114,
+         "point": 29.5
+        },
+        {
+         "name": "Over",
+         "description": "Tory Horton",
+         "price": -114,
+         "point": 20.5
+        },
+        {
+         "name": "Under",
+         "description": "Tory Horton",
+         "price": -114,
+         "point": 20.5
+        },
+        {
+         "name": "Over",
+         "description": "Colston Loveland",
+         "price": -114,
+         "point": 42.5
+        },
+        {
+         "name": "Under",
+         "description": "Colston Loveland",
+         "price": -114,
+         "point": 42.5
+        },
+        {
+         "name": "Over",
+         "description": "Sam Roush",
+         "price": -114,
+         "point": 5.5
+        },
+        {
+         "name": "Under",
+         "description": "Sam Roush",
+         "price": -114,
+         "point": 5.5
+        },
+        {
+         "name": "Over",
+         "description": "Kalif Raymond",
+         "price": -114,
+         "point": 16.5
+        },
+        {
+         "name": "Under",
+         "description": "Kalif Raymond",
+         "price": -114,
+         "point": 16.5
+        },
+        {
+         "name": "Over",
          "description": "Jaxon Smith-Njigba",
          "price": -114,
          "point": 99.5
@@ -4983,15 +5247,15 @@
         },
         {
          "name": "Over",
-         "description": "Colston Loveland",
+         "description": "Zach Charbonnet",
          "price": -114,
-         "point": 42.5
+         "point": 7.5
         },
         {
          "name": "Under",
-         "description": "Colston Loveland",
+         "description": "Zach Charbonnet",
          "price": -114,
-         "point": 42.5
+         "point": 7.5
         },
         {
          "name": "Over",
@@ -5016,36 +5280,72 @@
          "description": "Luther Burden III",
          "price": -114,
          "point": 51.5
-        },
-        {
-         "name": "Over",
-         "description": "Kalif Raymond",
-         "price": -114,
-         "point": 17.5
-        },
-        {
-         "name": "Under",
-         "description": "Kalif Raymond",
-         "price": -114,
-         "point": 17.5
         }
        ]
       },
       {
        "key": "player_rush_yds",
-       "last_update": "2026-10-31T00:15:33Z",
+       "last_update": "2026-11-01T12:13:12Z",
        "outcomes": [
         {
          "name": "Over",
+         "description": "Emanuel Wilson",
+         "price": -114,
+         "point": 18.5
+        },
+        {
+         "name": "Under",
+         "description": "Emanuel Wilson",
+         "price": -114,
+         "point": 18.5
+        },
+        {
+         "name": "Over",
+         "description": "Jadarian Price",
+         "price": -114,
+         "point": 28.5
+        },
+        {
+         "name": "Under",
+         "description": "Jadarian Price",
+         "price": -114,
+         "point": 28.5
+        },
+        {
+         "name": "Over",
+         "description": "Zach Charbonnet",
+         "price": -114,
+         "point": 32.5
+        },
+        {
+         "name": "Under",
+         "description": "Zach Charbonnet",
+         "price": -114,
+         "point": 32.5
+        },
+        {
+         "name": "Over",
+         "description": "Sam Darnold",
+         "price": -114,
+         "point": 4.5
+        },
+        {
+         "name": "Under",
+         "description": "Sam Darnold",
+         "price": -114,
+         "point": 4.5
+        },
+        {
+         "name": "Over",
          "description": "D'Andre Swift",
          "price": -114,
-         "point": 64.5
+         "point": 61.5
         },
         {
          "name": "Under",
          "description": "D'Andre Swift",
          "price": -114,
-         "point": 64.5
+         "point": 61.5
         },
         {
          "name": "Over",
@@ -5070,24 +5370,21 @@
          "description": "Roschon Johnson",
          "price": -114,
          "point": 12.5
-        },
-        {
-         "name": "Over",
-         "description": "Sam Darnold",
-         "price": -114,
-         "point": 4.5
-        },
-        {
-         "name": "Under",
-         "description": "Sam Darnold",
-         "price": -114,
-         "point": 4.5
         }
        ]
       }
      ]
     }
    ]
+  },
+  {
+   "id": "c75744790b7acf6260c78ba5e739c0e5",
+   "sport_key": "americanfootball_nfl",
+   "sport_title": "NFL",
+   "commence_time": "2026-11-06T01:15:00Z",
+   "home_team": "Baltimore Ravens",
+   "away_team": "Jacksonville Jaguars",
+   "bookmakers": []
   }
  ]
 }
