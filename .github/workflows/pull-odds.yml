@@ -22,10 +22,10 @@ jobs:
           import json, os, urllib.request, datetime as dt
           KEY = os.environ["ODDS_API_KEY"]
           BASE = "https://api.the-odds-api.com/v4/sports/americanfootball_nfl"
-          # 6 prop markets x ~14 games is about 85 credits per pull (free plan: 500/month)
+          # 7 prop markets x ~14 games is about 100 credits per pull (free plan: 500/month)
           MARKETS = ",".join([
               "player_pass_yds", "player_pass_attempts", "player_pass_completions",
-              "player_rush_yds", "player_rush_attempts", "player_reception_yds",
+              "player_rush_yds", "player_rush_attempts", "player_reception_yds", "player_receptions",
           ])
           def get(url):
               with urllib.request.urlopen(url, timeout=60) as r:
