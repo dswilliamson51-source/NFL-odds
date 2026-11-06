@@ -1,0 +1,38 @@
+name: Pull stadium weather (manual)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  weather:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Forecast wind/temp at outdoor NFL stadiums (Open-Meteo, no key)
+        run: |
+          python3 - <<'PY'
+          import json, urllib.request, datetime as dt, os
+          # home team -> (lat, lon) for open-air stadiums; domes/closed roofs are skipped
+          S = {"BAL":(39.278,-76.623),"BUF":(42.774,-78.787),"CAR":(35.226,-80.853),"CHI":(41.862,-87.617),"CIN":(39.095,-84.516),
+               "CLE":(41.506,-81.700),"DEN":(39.744,-105.020),"GB":(44.501,-88.062),"JAX":(30.324,-81.637),"KC":(39.049,-94.484),
+               "MIA":(25.958,-80.239),"NE":(42.091,-71.264),"NYG":(40.814,-74.074),"NYJ":(40.814,-74.074),"PHI":(39.901,-75.168),
+               "PIT":(40.447,-80.016),"SEA":(47.595,-122.332),"SF":(37.403,-121.970),"TB":(27.976,-82.503),"TEN":(36.166,-86.771),
+               "WAS":(38.908,-76.864)}
+          out = {"pulled_at": dt.datetime.utcnow().isoformat(), "hourly": {}}
+          for t,(la,lo) in S.items():
+              u = f"https://api.open-meteo.com/v1/forecast?latitude={la}&longitude={lo}&hourly=wind_speed_10m,wind_gusts_10m,temperature_2m,precipitation_probability&wind_speed_unit=mph&temperature_unit=fahrenheit&timezone=America%2FNew_York&forecast_days=5"
+              try:
+                  with urllib.request.urlopen(u, timeout=30) as r: out["hourly"][t] = json.load(r)["hourly"]
+              except Exception as e: print("skip", t, e)
+          os.makedirs("data", exist_ok=True)
+          json.dump(out, open("data/weather_latest.json","w"))
+          print("teams", len(out["hourly"]))
+          PY
+      - name: Save
+        run: |
+          git config user.name "odds-bot"; git config user.email "odds-bot@users.noreply.github.com"
+          git add data; git commit -m "Weather $(date -u +%F)" || true
+          git pull --rebase origin main || true; git push
