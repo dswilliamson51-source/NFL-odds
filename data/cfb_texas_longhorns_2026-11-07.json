@@ -1,0 +1,327 @@
+{
+ "pulled_at": "2026-11-07T14:40:50.332387+00:00",
+ "events": [
+  {
+   "id": "43a67a478177d0dc6ef141aacf2bfd2a",
+   "sport_key": "americanfootball_ncaaf",
+   "sport_title": "NCAAF",
+   "commence_time": "2026-11-07T17:00:00Z",
+   "home_team": "Missouri Tigers",
+   "away_team": "Texas Longhorns",
+   "bookmakers": [
+    {
+     "key": "fanduel",
+     "title": "FanDuel",
+     "markets": [
+      {
+       "key": "player_pass_tds",
+       "last_update": "2026-11-07T14:40:15Z",
+       "outcomes": [
+        {
+         "name": "Under",
+         "description": "Arch Manning",
+         "price": -196,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Arch Manning",
+         "price": 152,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Austin Simmons",
+         "price": -250,
+         "point": 0.5
+        },
+        {
+         "name": "Under",
+         "description": "Austin Simmons",
+         "price": 188,
+         "point": 0.5
+        }
+       ]
+      },
+      {
+       "key": "player_pass_yds",
+       "last_update": "2026-11-07T14:40:15Z",
+       "outcomes": [
+        {
+         "name": "Over",
+         "description": "Arch Manning",
+         "price": -112,
+         "point": 207.5
+        },
+        {
+         "name": "Under",
+         "description": "Arch Manning",
+         "price": -112,
+         "point": 207.5
+        },
+        {
+         "name": "Over",
+         "description": "Austin Simmons",
+         "price": -112,
+         "point": 202.5
+        },
+        {
+         "name": "Under",
+         "description": "Austin Simmons",
+         "price": -112,
+         "point": 202.5
+        }
+       ]
+      },
+      {
+       "key": "player_reception_yds",
+       "last_update": "2026-11-07T14:40:15Z",
+       "outcomes": [
+        {
+         "name": "Over",
+         "description": "Emmett Mosley V",
+         "price": -116,
+         "point": 47.5
+        },
+        {
+         "name": "Under",
+         "description": "Emmett Mosley V",
+         "price": -110,
+         "point": 47.5
+        },
+        {
+         "name": "Over",
+         "description": "Emaree Winston",
+         "price": -112,
+         "point": 13.5
+        },
+        {
+         "name": "Under",
+         "description": "Emaree Winston",
+         "price": -112,
+         "point": 13.5
+        },
+        {
+         "name": "Over",
+         "description": "Donovan Olugbode",
+         "price": -112,
+         "point": 55.5
+        },
+        {
+         "name": "Under",
+         "description": "Donovan Olugbode",
+         "price": -112,
+         "point": 55.5
+        },
+        {
+         "name": "Over",
+         "description": "Jamal Roberts",
+         "price": -116,
+         "point": 11.5
+        },
+        {
+         "name": "Under",
+         "description": "Jamal Roberts",
+         "price": -110,
+         "point": 11.5
+        },
+        {
+         "name": "Over",
+         "description": "Cayden Lee",
+         "price": -112,
+         "point": 72.5
+        },
+        {
+         "name": "Under",
+         "description": "Cayden Lee",
+         "price": -112,
+         "point": 72.5
+        },
+        {
+         "name": "Under",
+         "description": "Raleek Brown",
+         "price": -116,
+         "point": 9.5
+        },
+        {
+         "name": "Over",
+         "description": "Raleek Brown",
+         "price": -110,
+         "point": 9.5
+        },
+        {
+         "name": "Over",
+         "description": "Jermaine Bishop Jr.",
+         "price": -112,
+         "point": 32.5
+        },
+        {
+         "name": "Under",
+         "description": "Jermaine Bishop Jr.",
+         "price": -112,
+         "point": 32.5
+        },
+        {
+         "name": "Over",
+         "description": "Ryan Wingo",
+         "price": -116,
+         "point": 41.5
+        },
+        {
+         "name": "Under",
+         "description": "Ryan Wingo",
+         "price": -110,
+         "point": 41.5
+        }
+       ]
+      },
+      {
+       "key": "player_receptions",
+       "last_update": "2026-11-07T14:40:15Z",
+       "outcomes": [
+        {
+         "name": "Under",
+         "description": "Cayden Lee",
+         "price": 116,
+         "point": 5.5
+        },
+        {
+         "name": "Over",
+         "description": "Cayden Lee",
+         "price": -148,
+         "point": 5.5
+        },
+        {
+         "name": "Over",
+         "description": "Jamal Roberts",
+         "price": 112,
+         "point": 2.5
+        },
+        {
+         "name": "Under",
+         "description": "Jamal Roberts",
+         "price": -142,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Donovan Olugbode",
+         "price": -112,
+         "point": 4.5
+        },
+        {
+         "name": "Under",
+         "description": "Donovan Olugbode",
+         "price": -112,
+         "point": 4.5
+        },
+        {
+         "name": "Over",
+         "description": "Emmett Mosley V",
+         "price": -134,
+         "point": 3.5
+        },
+        {
+         "name": "Under",
+         "description": "Emmett Mosley V",
+         "price": 106,
+         "point": 3.5
+        },
+        {
+         "name": "Over",
+         "description": "Jermaine Bishop Jr.",
+         "price": 116,
+         "point": 3.5
+        },
+        {
+         "name": "Under",
+         "description": "Jermaine Bishop Jr.",
+         "price": -148,
+         "point": 3.5
+        },
+        {
+         "name": "Over",
+         "description": "Raleek Brown",
+         "price": 126,
+         "point": 2.5
+        },
+        {
+         "name": "Under",
+         "description": "Raleek Brown",
+         "price": -160,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Ryan Wingo",
+         "price": -112,
+         "point": 3.5
+        },
+        {
+         "name": "Under",
+         "description": "Ryan Wingo",
+         "price": -112,
+         "point": 3.5
+        }
+       ]
+      },
+      {
+       "key": "player_rush_yds",
+       "last_update": "2026-11-07T14:40:15Z",
+       "outcomes": [
+        {
+         "name": "Over",
+         "description": "Michael Terry III",
+         "price": -116,
+         "point": 20.5
+        },
+        {
+         "name": "Under",
+         "description": "Michael Terry III",
+         "price": -110,
+         "point": 20.5
+        },
+        {
+         "name": "Over",
+         "description": "Jamal Roberts",
+         "price": -112,
+         "point": 91.5
+        },
+        {
+         "name": "Under",
+         "description": "Jamal Roberts",
+         "price": -112,
+         "point": 91.5
+        },
+        {
+         "name": "Over",
+         "description": "Arch Manning",
+         "price": -112,
+         "point": 16.5
+        },
+        {
+         "name": "Under",
+         "description": "Arch Manning",
+         "price": -112,
+         "point": 16.5
+        },
+        {
+         "name": "Over",
+         "description": "Raleek Brown",
+         "price": -112,
+         "point": 60.5
+        },
+        {
+         "name": "Under",
+         "description": "Raleek Brown",
+         "price": -112,
+         "point": 60.5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
