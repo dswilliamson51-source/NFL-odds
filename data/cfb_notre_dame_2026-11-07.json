@@ -1,0 +1,315 @@
+{
+ "pulled_at": "2026-11-07T14:37:06.232904+00:00",
+ "events": [
+  {
+   "id": "4aac00e6cc06b8905659f911419540d2",
+   "sport_key": "americanfootball_ncaaf",
+   "sport_title": "NCAAF",
+   "commence_time": "2026-11-08T00:30:00Z",
+   "home_team": "Notre Dame Fighting Irish",
+   "away_team": "Miami Hurricanes",
+   "bookmakers": [
+    {
+     "key": "fanduel",
+     "title": "FanDuel",
+     "markets": [
+      {
+       "key": "player_pass_tds",
+       "last_update": "2026-11-07T14:36:17Z",
+       "outcomes": [
+        {
+         "name": "Under",
+         "description": "Darian Mensah",
+         "price": -158,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "Darian Mensah",
+         "price": 118,
+         "point": 1.5
+        },
+        {
+         "name": "Over",
+         "description": "CJ Carr",
+         "price": -166,
+         "point": 1.5
+        },
+        {
+         "name": "Under",
+         "description": "CJ Carr",
+         "price": 122,
+         "point": 1.5
+        }
+       ]
+      },
+      {
+       "key": "player_pass_yds",
+       "last_update": "2026-11-07T14:36:17Z",
+       "outcomes": [
+        {
+         "name": "Over",
+         "description": "Darian Mensah",
+         "price": -114,
+         "point": 223.5
+        },
+        {
+         "name": "Under",
+         "description": "Darian Mensah",
+         "price": -114,
+         "point": 223.5
+        },
+        {
+         "name": "Over",
+         "description": "CJ Carr",
+         "price": -114,
+         "point": 260.5
+        },
+        {
+         "name": "Under",
+         "description": "CJ Carr",
+         "price": -114,
+         "point": 260.5
+        }
+       ]
+      },
+      {
+       "key": "player_reception_yds",
+       "last_update": "2026-11-07T14:36:17Z",
+       "outcomes": [
+        {
+         "name": "Over",
+         "description": "Micah Gilbert",
+         "price": -114,
+         "point": 31.5
+        },
+        {
+         "name": "Under",
+         "description": "Micah Gilbert",
+         "price": -114,
+         "point": 31.5
+        },
+        {
+         "name": "Over",
+         "description": "Jordan Faison",
+         "price": -118,
+         "point": 69.5
+        },
+        {
+         "name": "Under",
+         "description": "Jordan Faison",
+         "price": -112,
+         "point": 69.5
+        },
+        {
+         "name": "Over",
+         "description": "Elija Lofton",
+         "price": -118,
+         "point": 34.5
+        },
+        {
+         "name": "Under",
+         "description": "Elija Lofton",
+         "price": -112,
+         "point": 34.5
+        },
+        {
+         "name": "Over",
+         "description": "Jaden Greathouse",
+         "price": -112,
+         "point": 47.5
+        },
+        {
+         "name": "Under",
+         "description": "Jaden Greathouse",
+         "price": -118,
+         "point": 47.5
+        },
+        {
+         "name": "Over",
+         "description": "Daylyn Upshaw",
+         "price": -114,
+         "point": 40.5
+        },
+        {
+         "name": "Under",
+         "description": "Daylyn Upshaw",
+         "price": -114,
+         "point": 40.5
+        },
+        {
+         "name": "Over",
+         "description": "Cooper Barkate",
+         "price": -114,
+         "point": 55.5
+        },
+        {
+         "name": "Under",
+         "description": "Cooper Barkate",
+         "price": -118,
+         "point": 55.5
+        },
+        {
+         "name": "Over",
+         "description": "Mark Fletcher Jr.",
+         "price": -112,
+         "point": 8.5
+        },
+        {
+         "name": "Under",
+         "description": "Mark Fletcher Jr.",
+         "price": -118,
+         "point": 8.5
+        },
+        {
+         "name": "Over",
+         "description": "Nolan James Jr.",
+         "price": -114,
+         "point": 7.5
+        },
+        {
+         "name": "Under",
+         "description": "Nolan James Jr.",
+         "price": -114,
+         "point": 7.5
+        }
+       ]
+      },
+      {
+       "key": "player_receptions",
+       "last_update": "2026-11-07T14:36:17Z",
+       "outcomes": [
+        {
+         "name": "Over",
+         "description": "Micah Gilbert",
+         "price": -148,
+         "point": 2.5
+        },
+        {
+         "name": "Under",
+         "description": "Micah Gilbert",
+         "price": 112,
+         "point": 2.5
+        },
+        {
+         "name": "Over",
+         "description": "Daylyn Upshaw",
+         "price": -138,
+         "point": 3.5
+        },
+        {
+         "name": "Under",
+         "description": "Daylyn Upshaw",
+         "price": 104,
+         "point": 3.5
+        },
+        {
+         "name": "Over",
+         "description": "Jordan Faison",
+         "price": -166,
+         "point": 4.5
+        },
+        {
+         "name": "Under",
+         "description": "Jordan Faison",
+         "price": 124,
+         "point": 4.5
+        },
+        {
+         "name": "Over",
+         "description": "Jaden Greathouse",
+         "price": -125,
+         "point": 3.5
+        },
+        {
+         "name": "Under",
+         "description": "Jaden Greathouse",
+         "price": -106,
+         "point": 3.5
+        },
+        {
+         "name": "Over",
+         "description": "Cooper Barkate",
+         "price": -122,
+         "point": 4.5
+        },
+        {
+         "name": "Under",
+         "description": "Cooper Barkate",
+         "price": -106,
+         "point": 4.5
+        },
+        {
+         "name": "Over",
+         "description": "Elija Lofton",
+         "price": -128,
+         "point": 3.5
+        },
+        {
+         "name": "Under",
+         "description": "Elija Lofton",
+         "price": -104,
+         "point": 3.5
+        }
+       ]
+      },
+      {
+       "key": "player_rush_yds",
+       "last_update": "2026-11-07T14:36:17Z",
+       "outcomes": [
+        {
+         "name": "Over",
+         "description": "Nolan James Jr.",
+         "price": -118,
+         "point": 65.5
+        },
+        {
+         "name": "Under",
+         "description": "Nolan James Jr.",
+         "price": -112,
+         "point": 65.5
+        },
+        {
+         "name": "Over",
+         "description": "Mark Fletcher Jr.",
+         "price": -114,
+         "point": 55.5
+        },
+        {
+         "name": "Under",
+         "description": "Mark Fletcher Jr.",
+         "price": -114,
+         "point": 55.5
+        },
+        {
+         "name": "Under",
+         "description": "Jonaz Walton",
+         "price": -114,
+         "point": 43.5
+        },
+        {
+         "name": "Over",
+         "description": "Jonaz Walton",
+         "price": -114,
+         "point": 43.5
+        },
+        {
+         "name": "Over",
+         "description": "Javian Mallory",
+         "price": -112,
+         "point": 44.5
+        },
+        {
+         "name": "Under",
+         "description": "Javian Mallory",
+         "price": -118,
+         "point": 44.5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
